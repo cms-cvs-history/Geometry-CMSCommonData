@@ -172,10 +172,12 @@
   <File name="Geometry/MuonCommonData/data/mf.xml"                  url="."/>
   <File name="Geometry/MuonCommonData/data/muonNumbering.xml"       url="."/>
   <File name="Geometry/TrackerCommonData/data/trackerStructureTopology.xml" url="."/>
-  <File name="Geometry/CMSCommonData/data/colors.xml"               url="."/> 
   <File name="Geometry/TrackerSimData/data/trackersens.xml"         url="."/> 
+  <File name="Geometry/TrackerSimData/data/trackerProdCuts.xml"     url="."/>
   <File name="Geometry/EcalSimData/data/ecalsens.xml"               url="."/> 
+  <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
   <File name="Geometry/HcalCommonData/data/hcalsens.xml"            url="."/> 
+  <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
   <File name="Geometry/MuonSimData/data/muonSens.xml"               url="."/> 
   <File name="Geometry/CSCSimAlgo/data/cscSpecs.xml"                url="."/>
   <File name="Geometry/CSCSimAlgo/data/cscSpecsFilter.xml"          url="."/>
