@@ -10181,2175 +10181,2175 @@
 
 <SpecParSection label="magn_field_map">
  <SpecPar name="Magnetic field map of Volume_MAGF">
-   <PartSelector path="//OCMS/MAGF"/>
+   <PartSelector path="//MAGF"/>
    <Parameter name="mfield_V_MAGF" value="version_80q_030704.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_1">
-   <PartSelector path="//OCMS/MAGF/V_ZP_1"/>
+   <PartSelector path="//MAGF/V_ZP_1"/>
    <Parameter name="mfield_V_ZP_1" value="grid.001.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_1">
-   <PartSelector path="//OCMS/MAGF/V_ZN_1"/>
+   <PartSelector path="//MAGF/V_ZN_1"/>
    <Parameter name="mfield_V_ZN_1" value="grid.001.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_2">
-   <PartSelector path="//OCMS/MAGF/V_ZP_2"/>
+   <PartSelector path="//MAGF/V_ZP_2"/>
    <Parameter name="mfield_V_ZP_2" value="grid.002.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_2">
-   <PartSelector path="//OCMS/MAGF/V_ZN_2"/>
+   <PartSelector path="//MAGF/V_ZN_2"/>
    <Parameter name="mfield_V_ZN_2" value="grid.002.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_3">
-   <PartSelector path="//OCMS/MAGF/V_ZP_3"/>
+   <PartSelector path="//MAGF/V_ZP_3"/>
    <Parameter name="mfield_V_ZP_3" value="grid.003.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_3">
-   <PartSelector path="//OCMS/MAGF/V_ZN_3"/>
+   <PartSelector path="//MAGF/V_ZN_3"/>
    <Parameter name="mfield_V_ZN_3" value="grid.003.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_4">
-   <PartSelector path="//OCMS/MAGF/V_ZP_4"/>
+   <PartSelector path="//MAGF/V_ZP_4"/>
    <Parameter name="mfield_V_ZP_4" value="grid.004.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_4">
-   <PartSelector path="//OCMS/MAGF/V_ZN_4"/>
+   <PartSelector path="//MAGF/V_ZN_4"/>
    <Parameter name="mfield_V_ZN_4" value="grid.004.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_5">
-   <PartSelector path="//OCMS/MAGF/V_ZP_5"/>
+   <PartSelector path="//MAGF/V_ZP_5"/>
    <Parameter name="mfield_V_ZP_5" value="grid.005.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_5">
-   <PartSelector path="//OCMS/MAGF/V_ZN_5"/>
+   <PartSelector path="//MAGF/V_ZN_5"/>
    <Parameter name="mfield_V_ZN_5" value="grid.005.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_6">
-   <PartSelector path="//OCMS/MAGF/V_ZP_6"/>
+   <PartSelector path="//MAGF/V_ZP_6"/>
    <Parameter name="mfield_V_ZP_6" value="grid.006.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_6">
-   <PartSelector path="//OCMS/MAGF/V_ZN_6"/>
+   <PartSelector path="//MAGF/V_ZN_6"/>
    <Parameter name="mfield_V_ZN_6" value="grid.006.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_7">
-   <PartSelector path="//OCMS/MAGF/V_ZP_7"/>
+   <PartSelector path="//MAGF/V_ZP_7"/>
    <Parameter name="mfield_V_ZP_7" value="grid.007.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_7">
-   <PartSelector path="//OCMS/MAGF/V_ZN_7"/>
+   <PartSelector path="//MAGF/V_ZN_7"/>
    <Parameter name="mfield_V_ZN_7" value="grid.007.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_8">
-   <PartSelector path="//OCMS/MAGF/V_ZP_8"/>
+   <PartSelector path="//MAGF/V_ZP_8"/>
    <Parameter name="mfield_V_ZP_8" value="grid.008.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_8">
-   <PartSelector path="//OCMS/MAGF/V_ZN_8"/>
+   <PartSelector path="//MAGF/V_ZN_8"/>
    <Parameter name="mfield_V_ZN_8" value="grid.008.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_9">
-   <PartSelector path="//OCMS/MAGF/V_ZP_9"/>
+   <PartSelector path="//MAGF/V_ZP_9"/>
    <Parameter name="mfield_V_ZP_9" value="grid.009.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_9">
-   <PartSelector path="//OCMS/MAGF/V_ZN_9"/>
+   <PartSelector path="//MAGF/V_ZN_9"/>
    <Parameter name="mfield_V_ZN_9" value="grid.009.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_10">
-   <PartSelector path="//OCMS/MAGF/V_ZP_10"/>
+   <PartSelector path="//MAGF/V_ZP_10"/>
    <Parameter name="mfield_V_ZP_10" value="grid.010.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_10">
-   <PartSelector path="//OCMS/MAGF/V_ZN_10"/>
+   <PartSelector path="//MAGF/V_ZN_10"/>
    <Parameter name="mfield_V_ZN_10" value="grid.010.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_11">
-   <PartSelector path="//OCMS/MAGF/V_ZP_11"/>
+   <PartSelector path="//MAGF/V_ZP_11"/>
    <Parameter name="mfield_V_ZP_11" value="grid.011.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_11">
-   <PartSelector path="//OCMS/MAGF/V_ZN_11"/>
+   <PartSelector path="//MAGF/V_ZN_11"/>
    <Parameter name="mfield_V_ZN_11" value="grid.011.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_12">
-   <PartSelector path="//OCMS/MAGF/V_ZP_12"/>
+   <PartSelector path="//MAGF/V_ZP_12"/>
    <Parameter name="mfield_V_ZP_12" value="grid.012.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_12">
-   <PartSelector path="//OCMS/MAGF/V_ZN_12"/>
+   <PartSelector path="//MAGF/V_ZN_12"/>
    <Parameter name="mfield_V_ZN_12" value="grid.012.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_13">
-   <PartSelector path="//OCMS/MAGF/V_ZP_13"/>
+   <PartSelector path="//MAGF/V_ZP_13"/>
    <Parameter name="mfield_V_ZP_13" value="grid.013.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_13">
-   <PartSelector path="//OCMS/MAGF/V_ZN_13"/>
+   <PartSelector path="//MAGF/V_ZN_13"/>
    <Parameter name="mfield_V_ZN_13" value="grid.013.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_14">
-   <PartSelector path="//OCMS/MAGF/V_ZP_14"/>
+   <PartSelector path="//MAGF/V_ZP_14"/>
    <Parameter name="mfield_V_ZP_14" value="grid.014.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_14">
-   <PartSelector path="//OCMS/MAGF/V_ZN_14"/>
+   <PartSelector path="//MAGF/V_ZN_14"/>
    <Parameter name="mfield_V_ZN_14" value="grid.014.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_15">
-   <PartSelector path="//OCMS/MAGF/V_ZP_15"/>
+   <PartSelector path="//MAGF/V_ZP_15"/>
    <Parameter name="mfield_V_ZP_15" value="grid.015.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_15">
-   <PartSelector path="//OCMS/MAGF/V_ZN_15"/>
+   <PartSelector path="//MAGF/V_ZN_15"/>
    <Parameter name="mfield_V_ZN_15" value="grid.015.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_16">
-   <PartSelector path="//OCMS/MAGF/V_ZP_16"/>
+   <PartSelector path="//MAGF/V_ZP_16"/>
    <Parameter name="mfield_V_ZP_16" value="grid.016.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_16">
-   <PartSelector path="//OCMS/MAGF/V_ZN_16"/>
+   <PartSelector path="//MAGF/V_ZN_16"/>
    <Parameter name="mfield_V_ZN_16" value="grid.016.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_17">
-   <PartSelector path="//OCMS/MAGF/V_ZP_17"/>
+   <PartSelector path="//MAGF/V_ZP_17"/>
    <Parameter name="mfield_V_ZP_17" value="grid.017.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_17">
-   <PartSelector path="//OCMS/MAGF/V_ZN_17"/>
+   <PartSelector path="//MAGF/V_ZN_17"/>
    <Parameter name="mfield_V_ZN_17" value="grid.017.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_18">
-   <PartSelector path="//OCMS/MAGF/V_ZP_18"/>
+   <PartSelector path="//MAGF/V_ZP_18"/>
    <Parameter name="mfield_V_ZP_18" value="grid.018.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_18">
-   <PartSelector path="//OCMS/MAGF/V_ZN_18"/>
+   <PartSelector path="//MAGF/V_ZN_18"/>
    <Parameter name="mfield_V_ZN_18" value="grid.018.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_19">
-   <PartSelector path="//OCMS/MAGF/V_ZP_19"/>
+   <PartSelector path="//MAGF/V_ZP_19"/>
    <Parameter name="mfield_V_ZP_19" value="grid.019.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_19">
-   <PartSelector path="//OCMS/MAGF/V_ZN_19"/>
+   <PartSelector path="//MAGF/V_ZN_19"/>
    <Parameter name="mfield_V_ZN_19" value="grid.019.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_20">
-   <PartSelector path="//OCMS/MAGF/V_ZP_20"/>
+   <PartSelector path="//MAGF/V_ZP_20"/>
    <Parameter name="mfield_V_ZP_20" value="grid.020.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_20">
-   <PartSelector path="//OCMS/MAGF/V_ZN_20"/>
+   <PartSelector path="//MAGF/V_ZN_20"/>
    <Parameter name="mfield_V_ZN_20" value="grid.020.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_21">
-   <PartSelector path="//OCMS/MAGF/V_ZP_21"/>
+   <PartSelector path="//MAGF/V_ZP_21"/>
    <Parameter name="mfield_V_ZP_21" value="grid.021.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_21">
-   <PartSelector path="//OCMS/MAGF/V_ZN_21"/>
+   <PartSelector path="//MAGF/V_ZN_21"/>
    <Parameter name="mfield_V_ZN_21" value="grid.021.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_22">
-   <PartSelector path="//OCMS/MAGF/V_ZP_22"/>
+   <PartSelector path="//MAGF/V_ZP_22"/>
    <Parameter name="mfield_V_ZP_22" value="grid.022.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_22">
-   <PartSelector path="//OCMS/MAGF/V_ZN_22"/>
+   <PartSelector path="//MAGF/V_ZN_22"/>
    <Parameter name="mfield_V_ZN_22" value="grid.022.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_23">
-   <PartSelector path="//OCMS/MAGF/V_ZP_23"/>
+   <PartSelector path="//MAGF/V_ZP_23"/>
    <Parameter name="mfield_V_ZP_23" value="grid.023.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_23">
-   <PartSelector path="//OCMS/MAGF/V_ZN_23"/>
+   <PartSelector path="//MAGF/V_ZN_23"/>
    <Parameter name="mfield_V_ZN_23" value="grid.023.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_24">
-   <PartSelector path="//OCMS/MAGF/V_ZP_24"/>
+   <PartSelector path="//MAGF/V_ZP_24"/>
    <Parameter name="mfield_V_ZP_24" value="grid.024.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_24">
-   <PartSelector path="//OCMS/MAGF/V_ZN_24"/>
+   <PartSelector path="//MAGF/V_ZN_24"/>
    <Parameter name="mfield_V_ZN_24" value="grid.024.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_25">
-   <PartSelector path="//OCMS/MAGF/V_ZP_25"/>
+   <PartSelector path="//MAGF/V_ZP_25"/>
    <Parameter name="mfield_V_ZP_25" value="grid.025.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_25">
-   <PartSelector path="//OCMS/MAGF/V_ZN_25"/>
+   <PartSelector path="//MAGF/V_ZN_25"/>
    <Parameter name="mfield_V_ZN_25" value="grid.025.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_26">
-   <PartSelector path="//OCMS/MAGF/V_ZP_26"/>
+   <PartSelector path="//MAGF/V_ZP_26"/>
    <Parameter name="mfield_V_ZP_26" value="grid.026.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_26">
-   <PartSelector path="//OCMS/MAGF/V_ZN_26"/>
+   <PartSelector path="//MAGF/V_ZN_26"/>
    <Parameter name="mfield_V_ZN_26" value="grid.026.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_27">
-   <PartSelector path="//OCMS/MAGF/V_ZP_27"/>
+   <PartSelector path="//MAGF/V_ZP_27"/>
    <Parameter name="mfield_V_ZP_27" value="grid.027.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_27">
-   <PartSelector path="//OCMS/MAGF/V_ZN_27"/>
+   <PartSelector path="//MAGF/V_ZN_27"/>
    <Parameter name="mfield_V_ZN_27" value="grid.027.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_28">
-   <PartSelector path="//OCMS/MAGF/V_ZP_28"/>
+   <PartSelector path="//MAGF/V_ZP_28"/>
    <Parameter name="mfield_V_ZP_28" value="grid.028.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_28">
-   <PartSelector path="//OCMS/MAGF/V_ZN_28"/>
+   <PartSelector path="//MAGF/V_ZN_28"/>
    <Parameter name="mfield_V_ZN_28" value="grid.028.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_29">
-   <PartSelector path="//OCMS/MAGF/V_ZP_29"/>
+   <PartSelector path="//MAGF/V_ZP_29"/>
    <Parameter name="mfield_V_ZP_29" value="grid.029.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_29">
-   <PartSelector path="//OCMS/MAGF/V_ZN_29"/>
+   <PartSelector path="//MAGF/V_ZN_29"/>
    <Parameter name="mfield_V_ZN_29" value="grid.029.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_30">
-   <PartSelector path="//OCMS/MAGF/V_ZP_30"/>
+   <PartSelector path="//MAGF/V_ZP_30"/>
    <Parameter name="mfield_V_ZP_30" value="grid.030.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_30">
-   <PartSelector path="//OCMS/MAGF/V_ZN_30"/>
+   <PartSelector path="//MAGF/V_ZN_30"/>
    <Parameter name="mfield_V_ZN_30" value="grid.030.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_31">
-   <PartSelector path="//OCMS/MAGF/V_ZP_31"/>
+   <PartSelector path="//MAGF/V_ZP_31"/>
    <Parameter name="mfield_V_ZP_31" value="grid.031.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_31">
-   <PartSelector path="//OCMS/MAGF/V_ZN_31"/>
+   <PartSelector path="//MAGF/V_ZN_31"/>
    <Parameter name="mfield_V_ZN_31" value="grid.031.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_32">
-   <PartSelector path="//OCMS/MAGF/V_ZP_32"/>
+   <PartSelector path="//MAGF/V_ZP_32"/>
    <Parameter name="mfield_V_ZP_32" value="grid.032.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_32">
-   <PartSelector path="//OCMS/MAGF/V_ZN_32"/>
+   <PartSelector path="//MAGF/V_ZN_32"/>
    <Parameter name="mfield_V_ZN_32" value="grid.032.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_33">
-   <PartSelector path="//OCMS/MAGF/V_ZP_33"/>
+   <PartSelector path="//MAGF/V_ZP_33"/>
    <Parameter name="mfield_V_ZP_33" value="grid.033.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_33">
-   <PartSelector path="//OCMS/MAGF/V_ZN_33"/>
+   <PartSelector path="//MAGF/V_ZN_33"/>
    <Parameter name="mfield_V_ZN_33" value="grid.033.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_34">
-   <PartSelector path="//OCMS/MAGF/V_ZP_34"/>
+   <PartSelector path="//MAGF/V_ZP_34"/>
    <Parameter name="mfield_V_ZP_34" value="grid.034.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_34">
-   <PartSelector path="//OCMS/MAGF/V_ZN_34"/>
+   <PartSelector path="//MAGF/V_ZN_34"/>
    <Parameter name="mfield_V_ZN_34" value="grid.034.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_35">
-   <PartSelector path="//OCMS/MAGF/V_ZP_35"/>
+   <PartSelector path="//MAGF/V_ZP_35"/>
    <Parameter name="mfield_V_ZP_35" value="grid.035.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_35">
-   <PartSelector path="//OCMS/MAGF/V_ZN_35"/>
+   <PartSelector path="//MAGF/V_ZN_35"/>
    <Parameter name="mfield_V_ZN_35" value="grid.035.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_36">
-   <PartSelector path="//OCMS/MAGF/V_ZP_36"/>
+   <PartSelector path="//MAGF/V_ZP_36"/>
    <Parameter name="mfield_V_ZP_36" value="grid.036.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_36">
-   <PartSelector path="//OCMS/MAGF/V_ZN_36"/>
+   <PartSelector path="//MAGF/V_ZN_36"/>
    <Parameter name="mfield_V_ZN_36" value="grid.036.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_37">
-   <PartSelector path="//OCMS/MAGF/V_ZP_37"/>
+   <PartSelector path="//MAGF/V_ZP_37"/>
    <Parameter name="mfield_V_ZP_37" value="grid.037.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_37">
-   <PartSelector path="//OCMS/MAGF/V_ZN_37"/>
+   <PartSelector path="//MAGF/V_ZN_37"/>
    <Parameter name="mfield_V_ZN_37" value="grid.037.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_38">
-   <PartSelector path="//OCMS/MAGF/V_ZP_38"/>
+   <PartSelector path="//MAGF/V_ZP_38"/>
    <Parameter name="mfield_V_ZP_38" value="grid.038.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_38">
-   <PartSelector path="//OCMS/MAGF/V_ZN_38"/>
+   <PartSelector path="//MAGF/V_ZN_38"/>
    <Parameter name="mfield_V_ZN_38" value="grid.038.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_39">
-   <PartSelector path="//OCMS/MAGF/V_ZP_39"/>
+   <PartSelector path="//MAGF/V_ZP_39"/>
    <Parameter name="mfield_V_ZP_39" value="grid.039.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_39">
-   <PartSelector path="//OCMS/MAGF/V_ZN_39"/>
+   <PartSelector path="//MAGF/V_ZN_39"/>
    <Parameter name="mfield_V_ZN_39" value="grid.039.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_40">
-   <PartSelector path="//OCMS/MAGF/V_ZP_40"/>
+   <PartSelector path="//MAGF/V_ZP_40"/>
    <Parameter name="mfield_V_ZP_40" value="grid.040.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_40">
-   <PartSelector path="//OCMS/MAGF/V_ZN_40"/>
+   <PartSelector path="//MAGF/V_ZN_40"/>
    <Parameter name="mfield_V_ZN_40" value="grid.040.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_41">
-   <PartSelector path="//OCMS/MAGF/V_ZP_41"/>
+   <PartSelector path="//MAGF/V_ZP_41"/>
    <Parameter name="mfield_V_ZP_41" value="grid.041.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_41">
-   <PartSelector path="//OCMS/MAGF/V_ZN_41"/>
+   <PartSelector path="//MAGF/V_ZN_41"/>
    <Parameter name="mfield_V_ZN_41" value="grid.041.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_42">
-   <PartSelector path="//OCMS/MAGF/V_ZP_42"/>
+   <PartSelector path="//MAGF/V_ZP_42"/>
    <Parameter name="mfield_V_ZP_42" value="grid.042.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_42">
-   <PartSelector path="//OCMS/MAGF/V_ZN_42"/>
+   <PartSelector path="//MAGF/V_ZN_42"/>
    <Parameter name="mfield_V_ZN_42" value="grid.042.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_43">
-   <PartSelector path="//OCMS/MAGF/V_ZP_43"/>
+   <PartSelector path="//MAGF/V_ZP_43"/>
    <Parameter name="mfield_V_ZP_43" value="grid.043.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_43">
-   <PartSelector path="//OCMS/MAGF/V_ZN_43"/>
+   <PartSelector path="//MAGF/V_ZN_43"/>
    <Parameter name="mfield_V_ZN_43" value="grid.043.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_44">
-   <PartSelector path="//OCMS/MAGF/V_ZP_44"/>
+   <PartSelector path="//MAGF/V_ZP_44"/>
    <Parameter name="mfield_V_ZP_44" value="grid.044.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_44">
-   <PartSelector path="//OCMS/MAGF/V_ZN_44"/>
+   <PartSelector path="//MAGF/V_ZN_44"/>
    <Parameter name="mfield_V_ZN_44" value="grid.044.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_45">
-   <PartSelector path="//OCMS/MAGF/V_ZP_45"/>
+   <PartSelector path="//MAGF/V_ZP_45"/>
    <Parameter name="mfield_V_ZP_45" value="grid.045.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_45">
-   <PartSelector path="//OCMS/MAGF/V_ZN_45"/>
+   <PartSelector path="//MAGF/V_ZN_45"/>
    <Parameter name="mfield_V_ZN_45" value="grid.045.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_46">
-   <PartSelector path="//OCMS/MAGF/V_ZP_46"/>
+   <PartSelector path="//MAGF/V_ZP_46"/>
    <Parameter name="mfield_V_ZP_46" value="grid.046.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_46">
-   <PartSelector path="//OCMS/MAGF/V_ZN_46"/>
+   <PartSelector path="//MAGF/V_ZN_46"/>
    <Parameter name="mfield_V_ZN_46" value="grid.046.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_47">
-   <PartSelector path="//OCMS/MAGF/V_ZP_47"/>
+   <PartSelector path="//MAGF/V_ZP_47"/>
    <Parameter name="mfield_V_ZP_47" value="grid.047.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_47">
-   <PartSelector path="//OCMS/MAGF/V_ZN_47"/>
+   <PartSelector path="//MAGF/V_ZN_47"/>
    <Parameter name="mfield_V_ZN_47" value="grid.047.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_48">
-   <PartSelector path="//OCMS/MAGF/V_ZP_48"/>
+   <PartSelector path="//MAGF/V_ZP_48"/>
    <Parameter name="mfield_V_ZP_48" value="grid.048.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_48">
-   <PartSelector path="//OCMS/MAGF/V_ZN_48"/>
+   <PartSelector path="//MAGF/V_ZN_48"/>
    <Parameter name="mfield_V_ZN_48" value="grid.048.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_49">
-   <PartSelector path="//OCMS/MAGF/V_ZP_49"/>
+   <PartSelector path="//MAGF/V_ZP_49"/>
    <Parameter name="mfield_V_ZP_49" value="grid.049.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_49">
-   <PartSelector path="//OCMS/MAGF/V_ZN_49"/>
+   <PartSelector path="//MAGF/V_ZN_49"/>
    <Parameter name="mfield_V_ZN_49" value="grid.049.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_50">
-   <PartSelector path="//OCMS/MAGF/V_ZP_50"/>
+   <PartSelector path="//MAGF/V_ZP_50"/>
    <Parameter name="mfield_V_ZP_50" value="grid.050.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_50">
-   <PartSelector path="//OCMS/MAGF/V_ZN_50"/>
+   <PartSelector path="//MAGF/V_ZN_50"/>
    <Parameter name="mfield_V_ZN_50" value="grid.050.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_51">
-   <PartSelector path="//OCMS/MAGF/V_ZP_51"/>
+   <PartSelector path="//MAGF/V_ZP_51"/>
    <Parameter name="mfield_V_ZP_51" value="grid.051.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_51">
-   <PartSelector path="//OCMS/MAGF/V_ZN_51"/>
+   <PartSelector path="//MAGF/V_ZN_51"/>
    <Parameter name="mfield_V_ZN_51" value="grid.051.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_52">
-   <PartSelector path="//OCMS/MAGF/V_ZP_52"/>
+   <PartSelector path="//MAGF/V_ZP_52"/>
    <Parameter name="mfield_V_ZP_52" value="grid.052.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_52">
-   <PartSelector path="//OCMS/MAGF/V_ZN_52"/>
+   <PartSelector path="//MAGF/V_ZN_52"/>
    <Parameter name="mfield_V_ZN_52" value="grid.052.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_53">
-   <PartSelector path="//OCMS/MAGF/V_ZP_53"/>
+   <PartSelector path="//MAGF/V_ZP_53"/>
    <Parameter name="mfield_V_ZP_53" value="grid.053.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_53">
-   <PartSelector path="//OCMS/MAGF/V_ZN_53"/>
+   <PartSelector path="//MAGF/V_ZN_53"/>
    <Parameter name="mfield_V_ZN_53" value="grid.053.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_54">
-   <PartSelector path="//OCMS/MAGF/V_ZP_54"/>
+   <PartSelector path="//MAGF/V_ZP_54"/>
    <Parameter name="mfield_V_ZP_54" value="grid.054.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_54">
-   <PartSelector path="//OCMS/MAGF/V_ZN_54"/>
+   <PartSelector path="//MAGF/V_ZN_54"/>
    <Parameter name="mfield_V_ZN_54" value="grid.054.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_55">
-   <PartSelector path="//OCMS/MAGF/V_ZP_55"/>
+   <PartSelector path="//MAGF/V_ZP_55"/>
    <Parameter name="mfield_V_ZP_55" value="grid.055.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_55">
-   <PartSelector path="//OCMS/MAGF/V_ZN_55"/>
+   <PartSelector path="//MAGF/V_ZN_55"/>
    <Parameter name="mfield_V_ZN_55" value="grid.055.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_56">
-   <PartSelector path="//OCMS/MAGF/V_ZP_56"/>
+   <PartSelector path="//MAGF/V_ZP_56"/>
    <Parameter name="mfield_V_ZP_56" value="grid.056.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_56">
-   <PartSelector path="//OCMS/MAGF/V_ZN_56"/>
+   <PartSelector path="//MAGF/V_ZN_56"/>
    <Parameter name="mfield_V_ZN_56" value="grid.056.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_57">
-   <PartSelector path="//OCMS/MAGF/V_ZP_57"/>
+   <PartSelector path="//MAGF/V_ZP_57"/>
    <Parameter name="mfield_V_ZP_57" value="grid.057.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_57">
-   <PartSelector path="//OCMS/MAGF/V_ZN_57"/>
+   <PartSelector path="//MAGF/V_ZN_57"/>
    <Parameter name="mfield_V_ZN_57" value="grid.057.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_58">
-   <PartSelector path="//OCMS/MAGF/V_ZP_58"/>
+   <PartSelector path="//MAGF/V_ZP_58"/>
    <Parameter name="mfield_V_ZP_58" value="grid.058.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_58">
-   <PartSelector path="//OCMS/MAGF/V_ZN_58"/>
+   <PartSelector path="//MAGF/V_ZN_58"/>
    <Parameter name="mfield_V_ZN_58" value="grid.058.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_59">
-   <PartSelector path="//OCMS/MAGF/V_ZP_59"/>
+   <PartSelector path="//MAGF/V_ZP_59"/>
    <Parameter name="mfield_V_ZP_59" value="grid.059.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_59">
-   <PartSelector path="//OCMS/MAGF/V_ZN_59"/>
+   <PartSelector path="//MAGF/V_ZN_59"/>
    <Parameter name="mfield_V_ZN_59" value="grid.059.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_60">
-   <PartSelector path="//OCMS/MAGF/V_ZP_60"/>
+   <PartSelector path="//MAGF/V_ZP_60"/>
    <Parameter name="mfield_V_ZP_60" value="grid.060.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_60">
-   <PartSelector path="//OCMS/MAGF/V_ZN_60"/>
+   <PartSelector path="//MAGF/V_ZN_60"/>
    <Parameter name="mfield_V_ZN_60" value="grid.060.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_61">
-   <PartSelector path="//OCMS/MAGF/V_ZP_61"/>
+   <PartSelector path="//MAGF/V_ZP_61"/>
    <Parameter name="mfield_V_ZP_61" value="grid.061.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_61">
-   <PartSelector path="//OCMS/MAGF/V_ZN_61"/>
+   <PartSelector path="//MAGF/V_ZN_61"/>
    <Parameter name="mfield_V_ZN_61" value="grid.061.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_62">
-   <PartSelector path="//OCMS/MAGF/V_ZP_62"/>
+   <PartSelector path="//MAGF/V_ZP_62"/>
    <Parameter name="mfield_V_ZP_62" value="grid.062.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_62">
-   <PartSelector path="//OCMS/MAGF/V_ZN_62"/>
+   <PartSelector path="//MAGF/V_ZN_62"/>
    <Parameter name="mfield_V_ZN_62" value="grid.062.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_63">
-   <PartSelector path="//OCMS/MAGF/V_ZP_63"/>
+   <PartSelector path="//MAGF/V_ZP_63"/>
    <Parameter name="mfield_V_ZP_63" value="grid.063.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_63">
-   <PartSelector path="//OCMS/MAGF/V_ZN_63"/>
+   <PartSelector path="//MAGF/V_ZN_63"/>
    <Parameter name="mfield_V_ZN_63" value="grid.063.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_64">
-   <PartSelector path="//OCMS/MAGF/V_ZP_64"/>
+   <PartSelector path="//MAGF/V_ZP_64"/>
    <Parameter name="mfield_V_ZP_64" value="grid.064.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_64">
-   <PartSelector path="//OCMS/MAGF/V_ZN_64"/>
+   <PartSelector path="//MAGF/V_ZN_64"/>
    <Parameter name="mfield_V_ZN_64" value="grid.064.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_65">
-   <PartSelector path="//OCMS/MAGF/V_ZP_65"/>
+   <PartSelector path="//MAGF/V_ZP_65"/>
    <Parameter name="mfield_V_ZP_65" value="grid.065.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_65">
-   <PartSelector path="//OCMS/MAGF/V_ZN_65"/>
+   <PartSelector path="//MAGF/V_ZN_65"/>
    <Parameter name="mfield_V_ZN_65" value="grid.065.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_66">
-   <PartSelector path="//OCMS/MAGF/V_ZP_66"/>
+   <PartSelector path="//MAGF/V_ZP_66"/>
    <Parameter name="mfield_V_ZP_66" value="grid.066.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_66">
-   <PartSelector path="//OCMS/MAGF/V_ZN_66"/>
+   <PartSelector path="//MAGF/V_ZN_66"/>
    <Parameter name="mfield_V_ZN_66" value="grid.066.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_67">
-   <PartSelector path="//OCMS/MAGF/V_ZP_67"/>
+   <PartSelector path="//MAGF/V_ZP_67"/>
    <Parameter name="mfield_V_ZP_67" value="grid.067.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_67">
-   <PartSelector path="//OCMS/MAGF/V_ZN_67"/>
+   <PartSelector path="//MAGF/V_ZN_67"/>
    <Parameter name="mfield_V_ZN_67" value="grid.067.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_68">
-   <PartSelector path="//OCMS/MAGF/V_ZP_68"/>
+   <PartSelector path="//MAGF/V_ZP_68"/>
    <Parameter name="mfield_V_ZP_68" value="grid.068.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_68">
-   <PartSelector path="//OCMS/MAGF/V_ZN_68"/>
+   <PartSelector path="//MAGF/V_ZN_68"/>
    <Parameter name="mfield_V_ZN_68" value="grid.068.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_69">
-   <PartSelector path="//OCMS/MAGF/V_ZP_69"/>
+   <PartSelector path="//MAGF/V_ZP_69"/>
    <Parameter name="mfield_V_ZP_69" value="grid.069.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_69">
-   <PartSelector path="//OCMS/MAGF/V_ZN_69"/>
+   <PartSelector path="//MAGF/V_ZN_69"/>
    <Parameter name="mfield_V_ZN_69" value="grid.069.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_70">
-   <PartSelector path="//OCMS/MAGF/V_ZP_70"/>
+   <PartSelector path="//MAGF/V_ZP_70"/>
    <Parameter name="mfield_V_ZP_70" value="grid.070.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_70">
-   <PartSelector path="//OCMS/MAGF/V_ZN_70"/>
+   <PartSelector path="//MAGF/V_ZN_70"/>
    <Parameter name="mfield_V_ZN_70" value="grid.070.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_71">
-   <PartSelector path="//OCMS/MAGF/V_ZP_71"/>
+   <PartSelector path="//MAGF/V_ZP_71"/>
    <Parameter name="mfield_V_ZP_71" value="grid.071.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_71">
-   <PartSelector path="//OCMS/MAGF/V_ZN_71"/>
+   <PartSelector path="//MAGF/V_ZN_71"/>
    <Parameter name="mfield_V_ZN_71" value="grid.071.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_72">
-   <PartSelector path="//OCMS/MAGF/V_ZP_72"/>
+   <PartSelector path="//MAGF/V_ZP_72"/>
    <Parameter name="mfield_V_ZP_72" value="grid.072.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_72">
-   <PartSelector path="//OCMS/MAGF/V_ZN_72"/>
+   <PartSelector path="//MAGF/V_ZN_72"/>
    <Parameter name="mfield_V_ZN_72" value="grid.072.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_73">
-   <PartSelector path="//OCMS/MAGF/V_ZP_73"/>
+   <PartSelector path="//MAGF/V_ZP_73"/>
    <Parameter name="mfield_V_ZP_73" value="grid.073.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_73">
-   <PartSelector path="//OCMS/MAGF/V_ZN_73"/>
+   <PartSelector path="//MAGF/V_ZN_73"/>
    <Parameter name="mfield_V_ZN_73" value="grid.073.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_74">
-   <PartSelector path="//OCMS/MAGF/V_ZP_74"/>
+   <PartSelector path="//MAGF/V_ZP_74"/>
    <Parameter name="mfield_V_ZP_74" value="grid.074.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_74">
-   <PartSelector path="//OCMS/MAGF/V_ZN_74"/>
+   <PartSelector path="//MAGF/V_ZN_74"/>
    <Parameter name="mfield_V_ZN_74" value="grid.074.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_75">
-   <PartSelector path="//OCMS/MAGF/V_ZP_75"/>
+   <PartSelector path="//MAGF/V_ZP_75"/>
    <Parameter name="mfield_V_ZP_75" value="grid.075.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_75">
-   <PartSelector path="//OCMS/MAGF/V_ZN_75"/>
+   <PartSelector path="//MAGF/V_ZN_75"/>
    <Parameter name="mfield_V_ZN_75" value="grid.075.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_76">
-   <PartSelector path="//OCMS/MAGF/V_ZP_76"/>
+   <PartSelector path="//MAGF/V_ZP_76"/>
    <Parameter name="mfield_V_ZP_76" value="grid.076.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_76">
-   <PartSelector path="//OCMS/MAGF/V_ZN_76"/>
+   <PartSelector path="//MAGF/V_ZN_76"/>
    <Parameter name="mfield_V_ZN_76" value="grid.076.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_77">
-   <PartSelector path="//OCMS/MAGF/V_ZP_77"/>
+   <PartSelector path="//MAGF/V_ZP_77"/>
    <Parameter name="mfield_V_ZP_77" value="grid.077.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_77">
-   <PartSelector path="//OCMS/MAGF/V_ZN_77"/>
+   <PartSelector path="//MAGF/V_ZN_77"/>
    <Parameter name="mfield_V_ZN_77" value="grid.077.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_78">
-   <PartSelector path="//OCMS/MAGF/V_ZP_78"/>
+   <PartSelector path="//MAGF/V_ZP_78"/>
    <Parameter name="mfield_V_ZP_78" value="grid.078.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_78">
-   <PartSelector path="//OCMS/MAGF/V_ZN_78"/>
+   <PartSelector path="//MAGF/V_ZN_78"/>
    <Parameter name="mfield_V_ZN_78" value="grid.078.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_79">
-   <PartSelector path="//OCMS/MAGF/V_ZP_79"/>
+   <PartSelector path="//MAGF/V_ZP_79"/>
    <Parameter name="mfield_V_ZP_79" value="grid.079.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_79">
-   <PartSelector path="//OCMS/MAGF/V_ZN_79"/>
+   <PartSelector path="//MAGF/V_ZN_79"/>
    <Parameter name="mfield_V_ZN_79" value="grid.079.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_80">
-   <PartSelector path="//OCMS/MAGF/V_ZP_80"/>
+   <PartSelector path="//MAGF/V_ZP_80"/>
    <Parameter name="mfield_V_ZP_80" value="grid.080.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_80">
-   <PartSelector path="//OCMS/MAGF/V_ZN_80"/>
+   <PartSelector path="//MAGF/V_ZN_80"/>
    <Parameter name="mfield_V_ZN_80" value="grid.080.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_81">
-   <PartSelector path="//OCMS/MAGF/V_ZP_81"/>
+   <PartSelector path="//MAGF/V_ZP_81"/>
    <Parameter name="mfield_V_ZP_81" value="grid.081.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_81">
-   <PartSelector path="//OCMS/MAGF/V_ZN_81"/>
+   <PartSelector path="//MAGF/V_ZN_81"/>
    <Parameter name="mfield_V_ZN_81" value="grid.081.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_82">
-   <PartSelector path="//OCMS/MAGF/V_ZP_82"/>
+   <PartSelector path="//MAGF/V_ZP_82"/>
    <Parameter name="mfield_V_ZP_82" value="grid.082.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_82">
-   <PartSelector path="//OCMS/MAGF/V_ZN_82"/>
+   <PartSelector path="//MAGF/V_ZN_82"/>
    <Parameter name="mfield_V_ZN_82" value="grid.082.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_83">
-   <PartSelector path="//OCMS/MAGF/V_ZP_83"/>
+   <PartSelector path="//MAGF/V_ZP_83"/>
    <Parameter name="mfield_V_ZP_83" value="grid.083.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_83">
-   <PartSelector path="//OCMS/MAGF/V_ZN_83"/>
+   <PartSelector path="//MAGF/V_ZN_83"/>
    <Parameter name="mfield_V_ZN_83" value="grid.083.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_84">
-   <PartSelector path="//OCMS/MAGF/V_ZP_84"/>
+   <PartSelector path="//MAGF/V_ZP_84"/>
    <Parameter name="mfield_V_ZP_84" value="grid.084.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_84">
-   <PartSelector path="//OCMS/MAGF/V_ZN_84"/>
+   <PartSelector path="//MAGF/V_ZN_84"/>
    <Parameter name="mfield_V_ZN_84" value="grid.084.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_85">
-   <PartSelector path="//OCMS/MAGF/V_ZP_85"/>
+   <PartSelector path="//MAGF/V_ZP_85"/>
    <Parameter name="mfield_V_ZP_85" value="grid.085.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_85">
-   <PartSelector path="//OCMS/MAGF/V_ZN_85"/>
+   <PartSelector path="//MAGF/V_ZN_85"/>
    <Parameter name="mfield_V_ZN_85" value="grid.085.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_86">
-   <PartSelector path="//OCMS/MAGF/V_ZP_86"/>
+   <PartSelector path="//MAGF/V_ZP_86"/>
    <Parameter name="mfield_V_ZP_86" value="grid.086.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_86">
-   <PartSelector path="//OCMS/MAGF/V_ZN_86"/>
+   <PartSelector path="//MAGF/V_ZN_86"/>
    <Parameter name="mfield_V_ZN_86" value="grid.086.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_87">
-   <PartSelector path="//OCMS/MAGF/V_ZP_87"/>
+   <PartSelector path="//MAGF/V_ZP_87"/>
    <Parameter name="mfield_V_ZP_87" value="grid.087.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_87">
-   <PartSelector path="//OCMS/MAGF/V_ZN_87"/>
+   <PartSelector path="//MAGF/V_ZN_87"/>
    <Parameter name="mfield_V_ZN_87" value="grid.087.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_88">
-   <PartSelector path="//OCMS/MAGF/V_ZP_88"/>
+   <PartSelector path="//MAGF/V_ZP_88"/>
    <Parameter name="mfield_V_ZP_88" value="grid.088.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_88">
-   <PartSelector path="//OCMS/MAGF/V_ZN_88"/>
+   <PartSelector path="//MAGF/V_ZN_88"/>
    <Parameter name="mfield_V_ZN_88" value="grid.088.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_89">
-   <PartSelector path="//OCMS/MAGF/V_ZP_89"/>
+   <PartSelector path="//MAGF/V_ZP_89"/>
    <Parameter name="mfield_V_ZP_89" value="grid.089.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_89">
-   <PartSelector path="//OCMS/MAGF/V_ZN_89"/>
+   <PartSelector path="//MAGF/V_ZN_89"/>
    <Parameter name="mfield_V_ZN_89" value="grid.089.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_90">
-   <PartSelector path="//OCMS/MAGF/V_ZP_90"/>
+   <PartSelector path="//MAGF/V_ZP_90"/>
    <Parameter name="mfield_V_ZP_90" value="grid.090.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_90">
-   <PartSelector path="//OCMS/MAGF/V_ZN_90"/>
+   <PartSelector path="//MAGF/V_ZN_90"/>
    <Parameter name="mfield_V_ZN_90" value="grid.090.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_91">
-   <PartSelector path="//OCMS/MAGF/V_ZP_91"/>
+   <PartSelector path="//MAGF/V_ZP_91"/>
    <Parameter name="mfield_V_ZP_91" value="grid.091.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_91">
-   <PartSelector path="//OCMS/MAGF/V_ZN_91"/>
+   <PartSelector path="//MAGF/V_ZN_91"/>
    <Parameter name="mfield_V_ZN_91" value="grid.091.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_92">
-   <PartSelector path="//OCMS/MAGF/V_ZP_92"/>
+   <PartSelector path="//MAGF/V_ZP_92"/>
    <Parameter name="mfield_V_ZP_92" value="grid.092.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_92">
-   <PartSelector path="//OCMS/MAGF/V_ZN_92"/>
+   <PartSelector path="//MAGF/V_ZN_92"/>
    <Parameter name="mfield_V_ZN_92" value="grid.092.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_93">
-   <PartSelector path="//OCMS/MAGF/V_ZP_93"/>
+   <PartSelector path="//MAGF/V_ZP_93"/>
    <Parameter name="mfield_V_ZP_93" value="grid.093.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_93">
-   <PartSelector path="//OCMS/MAGF/V_ZN_93"/>
+   <PartSelector path="//MAGF/V_ZN_93"/>
    <Parameter name="mfield_V_ZN_93" value="grid.093.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_94">
-   <PartSelector path="//OCMS/MAGF/V_ZP_94"/>
+   <PartSelector path="//MAGF/V_ZP_94"/>
    <Parameter name="mfield_V_ZP_94" value="grid.094.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_94">
-   <PartSelector path="//OCMS/MAGF/V_ZN_94"/>
+   <PartSelector path="//MAGF/V_ZN_94"/>
    <Parameter name="mfield_V_ZN_94" value="grid.094.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_95">
-   <PartSelector path="//OCMS/MAGF/V_ZP_95"/>
+   <PartSelector path="//MAGF/V_ZP_95"/>
    <Parameter name="mfield_V_ZP_95" value="grid.095.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_95">
-   <PartSelector path="//OCMS/MAGF/V_ZN_95"/>
+   <PartSelector path="//MAGF/V_ZN_95"/>
    <Parameter name="mfield_V_ZN_95" value="grid.095.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_96">
-   <PartSelector path="//OCMS/MAGF/V_ZP_96"/>
+   <PartSelector path="//MAGF/V_ZP_96"/>
    <Parameter name="mfield_V_ZP_96" value="grid.096.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_96">
-   <PartSelector path="//OCMS/MAGF/V_ZN_96"/>
+   <PartSelector path="//MAGF/V_ZN_96"/>
    <Parameter name="mfield_V_ZN_96" value="grid.096.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_97">
-   <PartSelector path="//OCMS/MAGF/V_ZP_97"/>
+   <PartSelector path="//MAGF/V_ZP_97"/>
    <Parameter name="mfield_V_ZP_97" value="grid.097.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_97">
-   <PartSelector path="//OCMS/MAGF/V_ZN_97"/>
+   <PartSelector path="//MAGF/V_ZN_97"/>
    <Parameter name="mfield_V_ZN_97" value="grid.097.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_98">
-   <PartSelector path="//OCMS/MAGF/V_ZP_98"/>
+   <PartSelector path="//MAGF/V_ZP_98"/>
    <Parameter name="mfield_V_ZP_98" value="grid.098.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_98">
-   <PartSelector path="//OCMS/MAGF/V_ZN_98"/>
+   <PartSelector path="//MAGF/V_ZN_98"/>
    <Parameter name="mfield_V_ZN_98" value="grid.098.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_99">
-   <PartSelector path="//OCMS/MAGF/V_ZP_99"/>
+   <PartSelector path="//MAGF/V_ZP_99"/>
    <Parameter name="mfield_V_ZP_99" value="grid.099.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_99">
-   <PartSelector path="//OCMS/MAGF/V_ZN_99"/>
+   <PartSelector path="//MAGF/V_ZN_99"/>
    <Parameter name="mfield_V_ZN_99" value="grid.099.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_100">
-   <PartSelector path="//OCMS/MAGF/V_ZP_100"/>
+   <PartSelector path="//MAGF/V_ZP_100"/>
    <Parameter name="mfield_V_ZP_100" value="grid.100.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_100">
-   <PartSelector path="//OCMS/MAGF/V_ZN_100"/>
+   <PartSelector path="//MAGF/V_ZN_100"/>
    <Parameter name="mfield_V_ZN_100" value="grid.100.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_101">
-   <PartSelector path="//OCMS/MAGF/V_ZP_101"/>
+   <PartSelector path="//MAGF/V_ZP_101"/>
    <Parameter name="mfield_V_ZP_101" value="grid.101.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_101">
-   <PartSelector path="//OCMS/MAGF/V_ZN_101"/>
+   <PartSelector path="//MAGF/V_ZN_101"/>
    <Parameter name="mfield_V_ZN_101" value="grid.101.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_102">
-   <PartSelector path="//OCMS/MAGF/V_ZP_102"/>
+   <PartSelector path="//MAGF/V_ZP_102"/>
    <Parameter name="mfield_V_ZP_102" value="grid.102.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_102">
-   <PartSelector path="//OCMS/MAGF/V_ZN_102"/>
+   <PartSelector path="//MAGF/V_ZN_102"/>
    <Parameter name="mfield_V_ZN_102" value="grid.102.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_103">
-   <PartSelector path="//OCMS/MAGF/V_ZP_103"/>
+   <PartSelector path="//MAGF/V_ZP_103"/>
    <Parameter name="mfield_V_ZP_103" value="grid.103.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_103">
-   <PartSelector path="//OCMS/MAGF/V_ZN_103"/>
+   <PartSelector path="//MAGF/V_ZN_103"/>
    <Parameter name="mfield_V_ZN_103" value="grid.103.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_104">
-   <PartSelector path="//OCMS/MAGF/V_ZP_104"/>
+   <PartSelector path="//MAGF/V_ZP_104"/>
    <Parameter name="mfield_V_ZP_104" value="grid.104.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_104">
-   <PartSelector path="//OCMS/MAGF/V_ZN_104"/>
+   <PartSelector path="//MAGF/V_ZN_104"/>
    <Parameter name="mfield_V_ZN_104" value="grid.104.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_105">
-   <PartSelector path="//OCMS/MAGF/V_ZP_105"/>
+   <PartSelector path="//MAGF/V_ZP_105"/>
    <Parameter name="mfield_V_ZP_105" value="grid.105.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_105">
-   <PartSelector path="//OCMS/MAGF/V_ZN_105"/>
+   <PartSelector path="//MAGF/V_ZN_105"/>
    <Parameter name="mfield_V_ZN_105" value="grid.105.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_106">
-   <PartSelector path="//OCMS/MAGF/V_ZP_106"/>
+   <PartSelector path="//MAGF/V_ZP_106"/>
    <Parameter name="mfield_V_ZP_106" value="grid.106.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_106">
-   <PartSelector path="//OCMS/MAGF/V_ZN_106"/>
+   <PartSelector path="//MAGF/V_ZN_106"/>
    <Parameter name="mfield_V_ZN_106" value="grid.106.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_107">
-   <PartSelector path="//OCMS/MAGF/V_ZP_107"/>
+   <PartSelector path="//MAGF/V_ZP_107"/>
    <Parameter name="mfield_V_ZP_107" value="grid.107.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_107">
-   <PartSelector path="//OCMS/MAGF/V_ZN_107"/>
+   <PartSelector path="//MAGF/V_ZN_107"/>
    <Parameter name="mfield_V_ZN_107" value="grid.107.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_108">
-   <PartSelector path="//OCMS/MAGF/V_ZP_108"/>
+   <PartSelector path="//MAGF/V_ZP_108"/>
    <Parameter name="mfield_V_ZP_108" value="grid.108.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_108">
-   <PartSelector path="//OCMS/MAGF/V_ZN_108"/>
+   <PartSelector path="//MAGF/V_ZN_108"/>
    <Parameter name="mfield_V_ZN_108" value="grid.108.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_109">
-   <PartSelector path="//OCMS/MAGF/V_ZP_109"/>
+   <PartSelector path="//MAGF/V_ZP_109"/>
    <Parameter name="mfield_V_ZP_109" value="grid.109.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_109">
-   <PartSelector path="//OCMS/MAGF/V_ZN_109"/>
+   <PartSelector path="//MAGF/V_ZN_109"/>
    <Parameter name="mfield_V_ZN_109" value="grid.109.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_110">
-   <PartSelector path="//OCMS/MAGF/V_ZP_110"/>
+   <PartSelector path="//MAGF/V_ZP_110"/>
    <Parameter name="mfield_V_ZP_110" value="grid.110.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_110">
-   <PartSelector path="//OCMS/MAGF/V_ZN_110"/>
+   <PartSelector path="//MAGF/V_ZN_110"/>
    <Parameter name="mfield_V_ZN_110" value="grid.110.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_111">
-   <PartSelector path="//OCMS/MAGF/V_ZP_111"/>
+   <PartSelector path="//MAGF/V_ZP_111"/>
    <Parameter name="mfield_V_ZP_111" value="grid.111.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_111">
-   <PartSelector path="//OCMS/MAGF/V_ZN_111"/>
+   <PartSelector path="//MAGF/V_ZN_111"/>
    <Parameter name="mfield_V_ZN_111" value="grid.111.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_112">
-   <PartSelector path="//OCMS/MAGF/V_ZP_112"/>
+   <PartSelector path="//MAGF/V_ZP_112"/>
    <Parameter name="mfield_V_ZP_112" value="grid.112.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_112">
-   <PartSelector path="//OCMS/MAGF/V_ZN_112"/>
+   <PartSelector path="//MAGF/V_ZN_112"/>
    <Parameter name="mfield_V_ZN_112" value="grid.112.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_113">
-   <PartSelector path="//OCMS/MAGF/V_ZP_113"/>
+   <PartSelector path="//MAGF/V_ZP_113"/>
    <Parameter name="mfield_V_ZP_113" value="grid.113.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_113">
-   <PartSelector path="//OCMS/MAGF/V_ZN_113"/>
+   <PartSelector path="//MAGF/V_ZN_113"/>
    <Parameter name="mfield_V_ZN_113" value="grid.113.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_114">
-   <PartSelector path="//OCMS/MAGF/V_ZP_114"/>
+   <PartSelector path="//MAGF/V_ZP_114"/>
    <Parameter name="mfield_V_ZP_114" value="grid.114.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_114">
-   <PartSelector path="//OCMS/MAGF/V_ZN_114"/>
+   <PartSelector path="//MAGF/V_ZN_114"/>
    <Parameter name="mfield_V_ZN_114" value="grid.114.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_115">
-   <PartSelector path="//OCMS/MAGF/V_ZP_115"/>
+   <PartSelector path="//MAGF/V_ZP_115"/>
    <Parameter name="mfield_V_ZP_115" value="grid.115.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_115">
-   <PartSelector path="//OCMS/MAGF/V_ZN_115"/>
+   <PartSelector path="//MAGF/V_ZN_115"/>
    <Parameter name="mfield_V_ZN_115" value="grid.115.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_116">
-   <PartSelector path="//OCMS/MAGF/V_ZP_116"/>
+   <PartSelector path="//MAGF/V_ZP_116"/>
    <Parameter name="mfield_V_ZP_116" value="grid.116.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_116">
-   <PartSelector path="//OCMS/MAGF/V_ZN_116"/>
+   <PartSelector path="//MAGF/V_ZN_116"/>
    <Parameter name="mfield_V_ZN_116" value="grid.116.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_117">
-   <PartSelector path="//OCMS/MAGF/V_ZP_117"/>
+   <PartSelector path="//MAGF/V_ZP_117"/>
    <Parameter name="mfield_V_ZP_117" value="grid.117.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_117">
-   <PartSelector path="//OCMS/MAGF/V_ZN_117"/>
+   <PartSelector path="//MAGF/V_ZN_117"/>
    <Parameter name="mfield_V_ZN_117" value="grid.117.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_118">
-   <PartSelector path="//OCMS/MAGF/V_ZP_118"/>
+   <PartSelector path="//MAGF/V_ZP_118"/>
    <Parameter name="mfield_V_ZP_118" value="grid.118.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_118">
-   <PartSelector path="//OCMS/MAGF/V_ZN_118"/>
+   <PartSelector path="//MAGF/V_ZN_118"/>
    <Parameter name="mfield_V_ZN_118" value="grid.118.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_119">
-   <PartSelector path="//OCMS/MAGF/V_ZP_119"/>
+   <PartSelector path="//MAGF/V_ZP_119"/>
    <Parameter name="mfield_V_ZP_119" value="grid.119.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_119">
-   <PartSelector path="//OCMS/MAGF/V_ZN_119"/>
+   <PartSelector path="//MAGF/V_ZN_119"/>
    <Parameter name="mfield_V_ZN_119" value="grid.119.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_120">
-   <PartSelector path="//OCMS/MAGF/V_ZP_120"/>
+   <PartSelector path="//MAGF/V_ZP_120"/>
    <Parameter name="mfield_V_ZP_120" value="grid.120.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_120">
-   <PartSelector path="//OCMS/MAGF/V_ZN_120"/>
+   <PartSelector path="//MAGF/V_ZN_120"/>
    <Parameter name="mfield_V_ZN_120" value="grid.120.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_121">
-   <PartSelector path="//OCMS/MAGF/V_ZP_121"/>
+   <PartSelector path="//MAGF/V_ZP_121"/>
    <Parameter name="mfield_V_ZP_121" value="grid.121.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_121">
-   <PartSelector path="//OCMS/MAGF/V_ZN_121"/>
+   <PartSelector path="//MAGF/V_ZN_121"/>
    <Parameter name="mfield_V_ZN_121" value="grid.121.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_122">
-   <PartSelector path="//OCMS/MAGF/V_ZP_122"/>
+   <PartSelector path="//MAGF/V_ZP_122"/>
    <Parameter name="mfield_V_ZP_122" value="grid.122.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_122">
-   <PartSelector path="//OCMS/MAGF/V_ZN_122"/>
+   <PartSelector path="//MAGF/V_ZN_122"/>
    <Parameter name="mfield_V_ZN_122" value="grid.122.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_123">
-   <PartSelector path="//OCMS/MAGF/V_ZP_123"/>
+   <PartSelector path="//MAGF/V_ZP_123"/>
    <Parameter name="mfield_V_ZP_123" value="grid.123.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_123">
-   <PartSelector path="//OCMS/MAGF/V_ZN_123"/>
+   <PartSelector path="//MAGF/V_ZN_123"/>
    <Parameter name="mfield_V_ZN_123" value="grid.123.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_124">
-   <PartSelector path="//OCMS/MAGF/V_ZP_124"/>
+   <PartSelector path="//MAGF/V_ZP_124"/>
    <Parameter name="mfield_V_ZP_124" value="grid.124.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_124">
-   <PartSelector path="//OCMS/MAGF/V_ZN_124"/>
+   <PartSelector path="//MAGF/V_ZN_124"/>
    <Parameter name="mfield_V_ZN_124" value="grid.124.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_125">
-   <PartSelector path="//OCMS/MAGF/V_ZP_125"/>
+   <PartSelector path="//MAGF/V_ZP_125"/>
    <Parameter name="mfield_V_ZP_125" value="grid.125.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_125">
-   <PartSelector path="//OCMS/MAGF/V_ZN_125"/>
+   <PartSelector path="//MAGF/V_ZN_125"/>
    <Parameter name="mfield_V_ZN_125" value="grid.125.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_126">
-   <PartSelector path="//OCMS/MAGF/V_ZP_126"/>
+   <PartSelector path="//MAGF/V_ZP_126"/>
    <Parameter name="mfield_V_ZP_126" value="grid.126.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_126">
-   <PartSelector path="//OCMS/MAGF/V_ZN_126"/>
+   <PartSelector path="//MAGF/V_ZN_126"/>
    <Parameter name="mfield_V_ZN_126" value="grid.126.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_127">
-   <PartSelector path="//OCMS/MAGF/V_ZP_127"/>
+   <PartSelector path="//MAGF/V_ZP_127"/>
    <Parameter name="mfield_V_ZP_127" value="grid.127.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_127">
-   <PartSelector path="//OCMS/MAGF/V_ZN_127"/>
+   <PartSelector path="//MAGF/V_ZN_127"/>
    <Parameter name="mfield_V_ZN_127" value="grid.127.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_128">
-   <PartSelector path="//OCMS/MAGF/V_ZP_128"/>
+   <PartSelector path="//MAGF/V_ZP_128"/>
    <Parameter name="mfield_V_ZP_128" value="grid.128.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_128">
-   <PartSelector path="//OCMS/MAGF/V_ZN_128"/>
+   <PartSelector path="//MAGF/V_ZN_128"/>
    <Parameter name="mfield_V_ZN_128" value="grid.128.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_129">
-   <PartSelector path="//OCMS/MAGF/V_ZP_129"/>
+   <PartSelector path="//MAGF/V_ZP_129"/>
    <Parameter name="mfield_V_ZP_129" value="grid.129.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_129">
-   <PartSelector path="//OCMS/MAGF/V_ZN_129"/>
+   <PartSelector path="//MAGF/V_ZN_129"/>
    <Parameter name="mfield_V_ZN_129" value="grid.129.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_130">
-   <PartSelector path="//OCMS/MAGF/V_ZP_130"/>
+   <PartSelector path="//MAGF/V_ZP_130"/>
    <Parameter name="mfield_V_ZP_130" value="grid.130.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_130">
-   <PartSelector path="//OCMS/MAGF/V_ZN_130"/>
+   <PartSelector path="//MAGF/V_ZN_130"/>
    <Parameter name="mfield_V_ZN_130" value="grid.130.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_131">
-   <PartSelector path="//OCMS/MAGF/V_ZP_131"/>
+   <PartSelector path="//MAGF/V_ZP_131"/>
    <Parameter name="mfield_V_ZP_131" value="grid.131.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_131">
-   <PartSelector path="//OCMS/MAGF/V_ZN_131"/>
+   <PartSelector path="//MAGF/V_ZN_131"/>
    <Parameter name="mfield_V_ZN_131" value="grid.131.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_132">
-   <PartSelector path="//OCMS/MAGF/V_ZP_132"/>
+   <PartSelector path="//MAGF/V_ZP_132"/>
    <Parameter name="mfield_V_ZP_132" value="grid.132.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_132">
-   <PartSelector path="//OCMS/MAGF/V_ZN_132"/>
+   <PartSelector path="//MAGF/V_ZN_132"/>
    <Parameter name="mfield_V_ZN_132" value="grid.132.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_133">
-   <PartSelector path="//OCMS/MAGF/V_ZP_133"/>
+   <PartSelector path="//MAGF/V_ZP_133"/>
    <Parameter name="mfield_V_ZP_133" value="grid.133.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_133">
-   <PartSelector path="//OCMS/MAGF/V_ZN_133"/>
+   <PartSelector path="//MAGF/V_ZN_133"/>
    <Parameter name="mfield_V_ZN_133" value="grid.133.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_134">
-   <PartSelector path="//OCMS/MAGF/V_ZP_134"/>
+   <PartSelector path="//MAGF/V_ZP_134"/>
    <Parameter name="mfield_V_ZP_134" value="grid.134.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_134">
-   <PartSelector path="//OCMS/MAGF/V_ZN_134"/>
+   <PartSelector path="//MAGF/V_ZN_134"/>
    <Parameter name="mfield_V_ZN_134" value="grid.134.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_135">
-   <PartSelector path="//OCMS/MAGF/V_ZP_135"/>
+   <PartSelector path="//MAGF/V_ZP_135"/>
    <Parameter name="mfield_V_ZP_135" value="grid.135.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_135">
-   <PartSelector path="//OCMS/MAGF/V_ZN_135"/>
+   <PartSelector path="//MAGF/V_ZN_135"/>
    <Parameter name="mfield_V_ZN_135" value="grid.135.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_136">
-   <PartSelector path="//OCMS/MAGF/V_ZP_136"/>
+   <PartSelector path="//MAGF/V_ZP_136"/>
    <Parameter name="mfield_V_ZP_136" value="grid.136.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_136">
-   <PartSelector path="//OCMS/MAGF/V_ZN_136"/>
+   <PartSelector path="//MAGF/V_ZN_136"/>
    <Parameter name="mfield_V_ZN_136" value="grid.136.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_137">
-   <PartSelector path="//OCMS/MAGF/V_ZP_137"/>
+   <PartSelector path="//MAGF/V_ZP_137"/>
    <Parameter name="mfield_V_ZP_137" value="grid.137.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_137">
-   <PartSelector path="//OCMS/MAGF/V_ZN_137"/>
+   <PartSelector path="//MAGF/V_ZN_137"/>
    <Parameter name="mfield_V_ZN_137" value="grid.137.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_138">
-   <PartSelector path="//OCMS/MAGF/V_ZP_138"/>
+   <PartSelector path="//MAGF/V_ZP_138"/>
    <Parameter name="mfield_V_ZP_138" value="grid.138.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_138">
-   <PartSelector path="//OCMS/MAGF/V_ZN_138"/>
+   <PartSelector path="//MAGF/V_ZN_138"/>
    <Parameter name="mfield_V_ZN_138" value="grid.138.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_139">
-   <PartSelector path="//OCMS/MAGF/V_ZP_139"/>
+   <PartSelector path="//MAGF/V_ZP_139"/>
    <Parameter name="mfield_V_ZP_139" value="grid.139.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_139">
-   <PartSelector path="//OCMS/MAGF/V_ZN_139"/>
+   <PartSelector path="//MAGF/V_ZN_139"/>
    <Parameter name="mfield_V_ZN_139" value="grid.139.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_140">
-   <PartSelector path="//OCMS/MAGF/V_ZP_140"/>
+   <PartSelector path="//MAGF/V_ZP_140"/>
    <Parameter name="mfield_V_ZP_140" value="grid.140.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_140">
-   <PartSelector path="//OCMS/MAGF/V_ZN_140"/>
+   <PartSelector path="//MAGF/V_ZN_140"/>
    <Parameter name="mfield_V_ZN_140" value="grid.140.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_141">
-   <PartSelector path="//OCMS/MAGF/V_ZP_141"/>
+   <PartSelector path="//MAGF/V_ZP_141"/>
    <Parameter name="mfield_V_ZP_141" value="grid.141.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_141">
-   <PartSelector path="//OCMS/MAGF/V_ZN_141"/>
+   <PartSelector path="//MAGF/V_ZN_141"/>
    <Parameter name="mfield_V_ZN_141" value="grid.141.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_142">
-   <PartSelector path="//OCMS/MAGF/V_ZP_142"/>
+   <PartSelector path="//MAGF/V_ZP_142"/>
    <Parameter name="mfield_V_ZP_142" value="grid.142.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_142">
-   <PartSelector path="//OCMS/MAGF/V_ZN_142"/>
+   <PartSelector path="//MAGF/V_ZN_142"/>
    <Parameter name="mfield_V_ZN_142" value="grid.142.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_143">
-   <PartSelector path="//OCMS/MAGF/V_ZP_143"/>
+   <PartSelector path="//MAGF/V_ZP_143"/>
    <Parameter name="mfield_V_ZP_143" value="grid.143.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_143">
-   <PartSelector path="//OCMS/MAGF/V_ZN_143"/>
+   <PartSelector path="//MAGF/V_ZN_143"/>
    <Parameter name="mfield_V_ZN_143" value="grid.143.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_144">
-   <PartSelector path="//OCMS/MAGF/V_ZP_144"/>
+   <PartSelector path="//MAGF/V_ZP_144"/>
    <Parameter name="mfield_V_ZP_144" value="grid.144.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_144">
-   <PartSelector path="//OCMS/MAGF/V_ZN_144"/>
+   <PartSelector path="//MAGF/V_ZN_144"/>
    <Parameter name="mfield_V_ZN_144" value="grid.144.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_145">
-   <PartSelector path="//OCMS/MAGF/V_ZP_145"/>
+   <PartSelector path="//MAGF/V_ZP_145"/>
    <Parameter name="mfield_V_ZP_145" value="grid.145.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_145">
-   <PartSelector path="//OCMS/MAGF/V_ZN_145"/>
+   <PartSelector path="//MAGF/V_ZN_145"/>
    <Parameter name="mfield_V_ZN_145" value="grid.145.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_146">
-   <PartSelector path="//OCMS/MAGF/V_ZP_146"/>
+   <PartSelector path="//MAGF/V_ZP_146"/>
    <Parameter name="mfield_V_ZP_146" value="grid.146.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_146">
-   <PartSelector path="//OCMS/MAGF/V_ZN_146"/>
+   <PartSelector path="//MAGF/V_ZN_146"/>
    <Parameter name="mfield_V_ZN_146" value="grid.146.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_147">
-   <PartSelector path="//OCMS/MAGF/V_ZP_147"/>
+   <PartSelector path="//MAGF/V_ZP_147"/>
    <Parameter name="mfield_V_ZP_147" value="grid.147.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_147">
-   <PartSelector path="//OCMS/MAGF/V_ZN_147"/>
+   <PartSelector path="//MAGF/V_ZN_147"/>
    <Parameter name="mfield_V_ZN_147" value="grid.147.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_148">
-   <PartSelector path="//OCMS/MAGF/V_ZP_148"/>
+   <PartSelector path="//MAGF/V_ZP_148"/>
    <Parameter name="mfield_V_ZP_148" value="grid.148.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_148">
-   <PartSelector path="//OCMS/MAGF/V_ZN_148"/>
+   <PartSelector path="//MAGF/V_ZN_148"/>
    <Parameter name="mfield_V_ZN_148" value="grid.148.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_149">
-   <PartSelector path="//OCMS/MAGF/V_ZP_149"/>
+   <PartSelector path="//MAGF/V_ZP_149"/>
    <Parameter name="mfield_V_ZP_149" value="grid.149.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_149">
-   <PartSelector path="//OCMS/MAGF/V_ZN_149"/>
+   <PartSelector path="//MAGF/V_ZN_149"/>
    <Parameter name="mfield_V_ZN_149" value="grid.149.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_150">
-   <PartSelector path="//OCMS/MAGF/V_ZP_150"/>
+   <PartSelector path="//MAGF/V_ZP_150"/>
    <Parameter name="mfield_V_ZP_150" value="grid.150.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_150">
-   <PartSelector path="//OCMS/MAGF/V_ZN_150"/>
+   <PartSelector path="//MAGF/V_ZN_150"/>
    <Parameter name="mfield_V_ZN_150" value="grid.150.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_151">
-   <PartSelector path="//OCMS/MAGF/V_ZP_151"/>
+   <PartSelector path="//MAGF/V_ZP_151"/>
    <Parameter name="mfield_V_ZP_151" value="grid.151.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_151">
-   <PartSelector path="//OCMS/MAGF/V_ZN_151"/>
+   <PartSelector path="//MAGF/V_ZN_151"/>
    <Parameter name="mfield_V_ZN_151" value="grid.151.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_152">
-   <PartSelector path="//OCMS/MAGF/V_ZP_152"/>
+   <PartSelector path="//MAGF/V_ZP_152"/>
    <Parameter name="mfield_V_ZP_152" value="grid.152.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_152">
-   <PartSelector path="//OCMS/MAGF/V_ZN_152"/>
+   <PartSelector path="//MAGF/V_ZN_152"/>
    <Parameter name="mfield_V_ZN_152" value="grid.152.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_153">
-   <PartSelector path="//OCMS/MAGF/V_ZP_153"/>
+   <PartSelector path="//MAGF/V_ZP_153"/>
    <Parameter name="mfield_V_ZP_153" value="grid.153.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_153">
-   <PartSelector path="//OCMS/MAGF/V_ZN_153"/>
+   <PartSelector path="//MAGF/V_ZN_153"/>
    <Parameter name="mfield_V_ZN_153" value="grid.153.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_154">
-   <PartSelector path="//OCMS/MAGF/V_ZP_154"/>
+   <PartSelector path="//MAGF/V_ZP_154"/>
    <Parameter name="mfield_V_ZP_154" value="grid.154.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_154">
-   <PartSelector path="//OCMS/MAGF/V_ZN_154"/>
+   <PartSelector path="//MAGF/V_ZN_154"/>
    <Parameter name="mfield_V_ZN_154" value="grid.154.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_155">
-   <PartSelector path="//OCMS/MAGF/V_ZP_155"/>
+   <PartSelector path="//MAGF/V_ZP_155"/>
    <Parameter name="mfield_V_ZP_155" value="grid.155.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_155">
-   <PartSelector path="//OCMS/MAGF/V_ZN_155"/>
+   <PartSelector path="//MAGF/V_ZN_155"/>
    <Parameter name="mfield_V_ZN_155" value="grid.155.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_156">
-   <PartSelector path="//OCMS/MAGF/V_ZP_156"/>
+   <PartSelector path="//MAGF/V_ZP_156"/>
    <Parameter name="mfield_V_ZP_156" value="grid.156.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_156">
-   <PartSelector path="//OCMS/MAGF/V_ZN_156"/>
+   <PartSelector path="//MAGF/V_ZN_156"/>
    <Parameter name="mfield_V_ZN_156" value="grid.156.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_157">
-   <PartSelector path="//OCMS/MAGF/V_ZP_157"/>
+   <PartSelector path="//MAGF/V_ZP_157"/>
    <Parameter name="mfield_V_ZP_157" value="grid.157.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_157">
-   <PartSelector path="//OCMS/MAGF/V_ZN_157"/>
+   <PartSelector path="//MAGF/V_ZN_157"/>
    <Parameter name="mfield_V_ZN_157" value="grid.157.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_158">
-   <PartSelector path="//OCMS/MAGF/V_ZP_158"/>
+   <PartSelector path="//MAGF/V_ZP_158"/>
    <Parameter name="mfield_V_ZP_158" value="grid.158.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_158">
-   <PartSelector path="//OCMS/MAGF/V_ZN_158"/>
+   <PartSelector path="//MAGF/V_ZN_158"/>
    <Parameter name="mfield_V_ZN_158" value="grid.158.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_159">
-   <PartSelector path="//OCMS/MAGF/V_ZP_159"/>
+   <PartSelector path="//MAGF/V_ZP_159"/>
    <Parameter name="mfield_V_ZP_159" value="grid.159.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_159">
-   <PartSelector path="//OCMS/MAGF/V_ZN_159"/>
+   <PartSelector path="//MAGF/V_ZN_159"/>
    <Parameter name="mfield_V_ZN_159" value="grid.159.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_160">
-   <PartSelector path="//OCMS/MAGF/V_ZP_160"/>
+   <PartSelector path="//MAGF/V_ZP_160"/>
    <Parameter name="mfield_V_ZP_160" value="grid.160.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_160">
-   <PartSelector path="//OCMS/MAGF/V_ZN_160"/>
+   <PartSelector path="//MAGF/V_ZN_160"/>
    <Parameter name="mfield_V_ZN_160" value="grid.160.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_161">
-   <PartSelector path="//OCMS/MAGF/V_ZP_161"/>
+   <PartSelector path="//MAGF/V_ZP_161"/>
    <Parameter name="mfield_V_ZP_161" value="grid.161.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_161">
-   <PartSelector path="//OCMS/MAGF/V_ZN_161"/>
+   <PartSelector path="//MAGF/V_ZN_161"/>
    <Parameter name="mfield_V_ZN_161" value="grid.161.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_162">
-   <PartSelector path="//OCMS/MAGF/V_ZP_162"/>
+   <PartSelector path="//MAGF/V_ZP_162"/>
    <Parameter name="mfield_V_ZP_162" value="grid.162.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_162">
-   <PartSelector path="//OCMS/MAGF/V_ZN_162"/>
+   <PartSelector path="//MAGF/V_ZN_162"/>
    <Parameter name="mfield_V_ZN_162" value="grid.162.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_163">
-   <PartSelector path="//OCMS/MAGF/V_ZP_163"/>
+   <PartSelector path="//MAGF/V_ZP_163"/>
    <Parameter name="mfield_V_ZP_163" value="grid.163.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_163">
-   <PartSelector path="//OCMS/MAGF/V_ZN_163"/>
+   <PartSelector path="//MAGF/V_ZN_163"/>
    <Parameter name="mfield_V_ZN_163" value="grid.163.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_164">
-   <PartSelector path="//OCMS/MAGF/V_ZP_164"/>
+   <PartSelector path="//MAGF/V_ZP_164"/>
    <Parameter name="mfield_V_ZP_164" value="grid.164.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_164">
-   <PartSelector path="//OCMS/MAGF/V_ZN_164"/>
+   <PartSelector path="//MAGF/V_ZN_164"/>
    <Parameter name="mfield_V_ZN_164" value="grid.164.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_165">
-   <PartSelector path="//OCMS/MAGF/V_ZP_165"/>
+   <PartSelector path="//MAGF/V_ZP_165"/>
    <Parameter name="mfield_V_ZP_165" value="grid.165.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_165">
-   <PartSelector path="//OCMS/MAGF/V_ZN_165"/>
+   <PartSelector path="//MAGF/V_ZN_165"/>
    <Parameter name="mfield_V_ZN_165" value="grid.165.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_166">
-   <PartSelector path="//OCMS/MAGF/V_ZP_166"/>
+   <PartSelector path="//MAGF/V_ZP_166"/>
    <Parameter name="mfield_V_ZP_166" value="grid.166.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_166">
-   <PartSelector path="//OCMS/MAGF/V_ZN_166"/>
+   <PartSelector path="//MAGF/V_ZN_166"/>
    <Parameter name="mfield_V_ZN_166" value="grid.166.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_167">
-   <PartSelector path="//OCMS/MAGF/V_ZP_167"/>
+   <PartSelector path="//MAGF/V_ZP_167"/>
    <Parameter name="mfield_V_ZP_167" value="grid.167.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_167">
-   <PartSelector path="//OCMS/MAGF/V_ZN_167"/>
+   <PartSelector path="//MAGF/V_ZN_167"/>
    <Parameter name="mfield_V_ZN_167" value="grid.167.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_168">
-   <PartSelector path="//OCMS/MAGF/V_ZP_168"/>
+   <PartSelector path="//MAGF/V_ZP_168"/>
    <Parameter name="mfield_V_ZP_168" value="grid.168.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_168">
-   <PartSelector path="//OCMS/MAGF/V_ZN_168"/>
+   <PartSelector path="//MAGF/V_ZN_168"/>
    <Parameter name="mfield_V_ZN_168" value="grid.168.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_169">
-   <PartSelector path="//OCMS/MAGF/V_ZP_169"/>
+   <PartSelector path="//MAGF/V_ZP_169"/>
    <Parameter name="mfield_V_ZP_169" value="grid.169.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_169">
-   <PartSelector path="//OCMS/MAGF/V_ZN_169"/>
+   <PartSelector path="//MAGF/V_ZN_169"/>
    <Parameter name="mfield_V_ZN_169" value="grid.169.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_170">
-   <PartSelector path="//OCMS/MAGF/V_ZP_170"/>
+   <PartSelector path="//MAGF/V_ZP_170"/>
    <Parameter name="mfield_V_ZP_170" value="grid.170.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_170">
-   <PartSelector path="//OCMS/MAGF/V_ZN_170"/>
+   <PartSelector path="//MAGF/V_ZN_170"/>
    <Parameter name="mfield_V_ZN_170" value="grid.170.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_171">
-   <PartSelector path="//OCMS/MAGF/V_ZP_171"/>
+   <PartSelector path="//MAGF/V_ZP_171"/>
    <Parameter name="mfield_V_ZP_171" value="grid.171.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_171">
-   <PartSelector path="//OCMS/MAGF/V_ZN_171"/>
+   <PartSelector path="//MAGF/V_ZN_171"/>
    <Parameter name="mfield_V_ZN_171" value="grid.171.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_172">
-   <PartSelector path="//OCMS/MAGF/V_ZP_172"/>
+   <PartSelector path="//MAGF/V_ZP_172"/>
    <Parameter name="mfield_V_ZP_172" value="grid.172.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_172">
-   <PartSelector path="//OCMS/MAGF/V_ZN_172"/>
+   <PartSelector path="//MAGF/V_ZN_172"/>
    <Parameter name="mfield_V_ZN_172" value="grid.172.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_173">
-   <PartSelector path="//OCMS/MAGF/V_ZP_173"/>
+   <PartSelector path="//MAGF/V_ZP_173"/>
    <Parameter name="mfield_V_ZP_173" value="grid.173.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_173">
-   <PartSelector path="//OCMS/MAGF/V_ZN_173"/>
+   <PartSelector path="//MAGF/V_ZN_173"/>
    <Parameter name="mfield_V_ZN_173" value="grid.173.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_174">
-   <PartSelector path="//OCMS/MAGF/V_ZP_174"/>
+   <PartSelector path="//MAGF/V_ZP_174"/>
    <Parameter name="mfield_V_ZP_174" value="grid.174.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_174">
-   <PartSelector path="//OCMS/MAGF/V_ZN_174"/>
+   <PartSelector path="//MAGF/V_ZN_174"/>
    <Parameter name="mfield_V_ZN_174" value="grid.174.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_175">
-   <PartSelector path="//OCMS/MAGF/V_ZP_175"/>
+   <PartSelector path="//MAGF/V_ZP_175"/>
    <Parameter name="mfield_V_ZP_175" value="grid.175.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_175">
-   <PartSelector path="//OCMS/MAGF/V_ZN_175"/>
+   <PartSelector path="//MAGF/V_ZN_175"/>
    <Parameter name="mfield_V_ZN_175" value="grid.175.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_176">
-   <PartSelector path="//OCMS/MAGF/V_ZP_176"/>
+   <PartSelector path="//MAGF/V_ZP_176"/>
    <Parameter name="mfield_V_ZP_176" value="grid.176.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_176">
-   <PartSelector path="//OCMS/MAGF/V_ZN_176"/>
+   <PartSelector path="//MAGF/V_ZN_176"/>
    <Parameter name="mfield_V_ZN_176" value="grid.176.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_177">
-   <PartSelector path="//OCMS/MAGF/V_ZP_177"/>
+   <PartSelector path="//MAGF/V_ZP_177"/>
    <Parameter name="mfield_V_ZP_177" value="grid.177.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_177">
-   <PartSelector path="//OCMS/MAGF/V_ZN_177"/>
+   <PartSelector path="//MAGF/V_ZN_177"/>
    <Parameter name="mfield_V_ZN_177" value="grid.177.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_178">
-   <PartSelector path="//OCMS/MAGF/V_ZP_178"/>
+   <PartSelector path="//MAGF/V_ZP_178"/>
    <Parameter name="mfield_V_ZP_178" value="grid.178.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_178">
-   <PartSelector path="//OCMS/MAGF/V_ZN_178"/>
+   <PartSelector path="//MAGF/V_ZN_178"/>
    <Parameter name="mfield_V_ZN_178" value="grid.178.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_179">
-   <PartSelector path="//OCMS/MAGF/V_ZP_179"/>
+   <PartSelector path="//MAGF/V_ZP_179"/>
    <Parameter name="mfield_V_ZP_179" value="grid.179.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_179">
-   <PartSelector path="//OCMS/MAGF/V_ZN_179"/>
+   <PartSelector path="//MAGF/V_ZN_179"/>
    <Parameter name="mfield_V_ZN_179" value="grid.179.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_180">
-   <PartSelector path="//OCMS/MAGF/V_ZP_180"/>
+   <PartSelector path="//MAGF/V_ZP_180"/>
    <Parameter name="mfield_V_ZP_180" value="grid.180.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_180">
-   <PartSelector path="//OCMS/MAGF/V_ZN_180"/>
+   <PartSelector path="//MAGF/V_ZN_180"/>
    <Parameter name="mfield_V_ZN_180" value="grid.180.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_181">
-   <PartSelector path="//OCMS/MAGF/V_ZP_181"/>
+   <PartSelector path="//MAGF/V_ZP_181"/>
    <Parameter name="mfield_V_ZP_181" value="grid.181.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_181">
-   <PartSelector path="//OCMS/MAGF/V_ZN_181"/>
+   <PartSelector path="//MAGF/V_ZN_181"/>
    <Parameter name="mfield_V_ZN_181" value="grid.181.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_182">
-   <PartSelector path="//OCMS/MAGF/V_ZP_182"/>
+   <PartSelector path="//MAGF/V_ZP_182"/>
    <Parameter name="mfield_V_ZP_182" value="grid.182.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_182">
-   <PartSelector path="//OCMS/MAGF/V_ZN_182"/>
+   <PartSelector path="//MAGF/V_ZN_182"/>
    <Parameter name="mfield_V_ZN_182" value="grid.182.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_183">
-   <PartSelector path="//OCMS/MAGF/V_ZP_183"/>
+   <PartSelector path="//MAGF/V_ZP_183"/>
    <Parameter name="mfield_V_ZP_183" value="grid.183.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_183">
-   <PartSelector path="//OCMS/MAGF/V_ZN_183"/>
+   <PartSelector path="//MAGF/V_ZN_183"/>
    <Parameter name="mfield_V_ZN_183" value="grid.183.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_184">
-   <PartSelector path="//OCMS/MAGF/V_ZP_184"/>
+   <PartSelector path="//MAGF/V_ZP_184"/>
    <Parameter name="mfield_V_ZP_184" value="grid.184.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_184">
-   <PartSelector path="//OCMS/MAGF/V_ZN_184"/>
+   <PartSelector path="//MAGF/V_ZN_184"/>
    <Parameter name="mfield_V_ZN_184" value="grid.184.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_185">
-   <PartSelector path="//OCMS/MAGF/V_ZP_185"/>
+   <PartSelector path="//MAGF/V_ZP_185"/>
    <Parameter name="mfield_V_ZP_185" value="grid.185.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_185">
-   <PartSelector path="//OCMS/MAGF/V_ZN_185"/>
+   <PartSelector path="//MAGF/V_ZN_185"/>
    <Parameter name="mfield_V_ZN_185" value="grid.185.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_186">
-   <PartSelector path="//OCMS/MAGF/V_ZP_186"/>
+   <PartSelector path="//MAGF/V_ZP_186"/>
    <Parameter name="mfield_V_ZP_186" value="grid.186.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_186">
-   <PartSelector path="//OCMS/MAGF/V_ZN_186"/>
+   <PartSelector path="//MAGF/V_ZN_186"/>
    <Parameter name="mfield_V_ZN_186" value="grid.186.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_187">
-   <PartSelector path="//OCMS/MAGF/V_ZP_187"/>
+   <PartSelector path="//MAGF/V_ZP_187"/>
    <Parameter name="mfield_V_ZP_187" value="grid.187.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_187">
-   <PartSelector path="//OCMS/MAGF/V_ZN_187"/>
+   <PartSelector path="//MAGF/V_ZN_187"/>
    <Parameter name="mfield_V_ZN_187" value="grid.187.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_188">
-   <PartSelector path="//OCMS/MAGF/V_ZP_188"/>
+   <PartSelector path="//MAGF/V_ZP_188"/>
    <Parameter name="mfield_V_ZP_188" value="grid.188.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_188">
-   <PartSelector path="//OCMS/MAGF/V_ZN_188"/>
+   <PartSelector path="//MAGF/V_ZN_188"/>
    <Parameter name="mfield_V_ZN_188" value="grid.188.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_189">
-   <PartSelector path="//OCMS/MAGF/V_ZP_189"/>
+   <PartSelector path="//MAGF/V_ZP_189"/>
    <Parameter name="mfield_V_ZP_189" value="grid.189.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_189">
-   <PartSelector path="//OCMS/MAGF/V_ZN_189"/>
+   <PartSelector path="//MAGF/V_ZN_189"/>
    <Parameter name="mfield_V_ZN_189" value="grid.189.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_190">
-   <PartSelector path="//OCMS/MAGF/V_ZP_190"/>
+   <PartSelector path="//MAGF/V_ZP_190"/>
    <Parameter name="mfield_V_ZP_190" value="grid.190.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_190">
-   <PartSelector path="//OCMS/MAGF/V_ZN_190"/>
+   <PartSelector path="//MAGF/V_ZN_190"/>
    <Parameter name="mfield_V_ZN_190" value="grid.190.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_191">
-   <PartSelector path="//OCMS/MAGF/V_ZP_191"/>
+   <PartSelector path="//MAGF/V_ZP_191"/>
    <Parameter name="mfield_V_ZP_191" value="grid.191.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_191">
-   <PartSelector path="//OCMS/MAGF/V_ZN_191"/>
+   <PartSelector path="//MAGF/V_ZN_191"/>
    <Parameter name="mfield_V_ZN_191" value="grid.191.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_192">
-   <PartSelector path="//OCMS/MAGF/V_ZP_192"/>
+   <PartSelector path="//MAGF/V_ZP_192"/>
    <Parameter name="mfield_V_ZP_192" value="grid.192.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_192">
-   <PartSelector path="//OCMS/MAGF/V_ZN_192"/>
+   <PartSelector path="//MAGF/V_ZN_192"/>
    <Parameter name="mfield_V_ZN_192" value="grid.192.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_193">
-   <PartSelector path="//OCMS/MAGF/V_ZP_193"/>
+   <PartSelector path="//MAGF/V_ZP_193"/>
    <Parameter name="mfield_V_ZP_193" value="grid.193.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_193">
-   <PartSelector path="//OCMS/MAGF/V_ZN_193"/>
+   <PartSelector path="//MAGF/V_ZN_193"/>
    <Parameter name="mfield_V_ZN_193" value="grid.193.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_194">
-   <PartSelector path="//OCMS/MAGF/V_ZP_194"/>
+   <PartSelector path="//MAGF/V_ZP_194"/>
    <Parameter name="mfield_V_ZP_194" value="grid.194.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_194">
-   <PartSelector path="//OCMS/MAGF/V_ZN_194"/>
+   <PartSelector path="//MAGF/V_ZN_194"/>
    <Parameter name="mfield_V_ZN_194" value="grid.194.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_195">
-   <PartSelector path="//OCMS/MAGF/V_ZP_195"/>
+   <PartSelector path="//MAGF/V_ZP_195"/>
    <Parameter name="mfield_V_ZP_195" value="grid.195.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_195">
-   <PartSelector path="//OCMS/MAGF/V_ZN_195"/>
+   <PartSelector path="//MAGF/V_ZN_195"/>
    <Parameter name="mfield_V_ZN_195" value="grid.195.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_196">
-   <PartSelector path="//OCMS/MAGF/V_ZP_196"/>
+   <PartSelector path="//MAGF/V_ZP_196"/>
    <Parameter name="mfield_V_ZP_196" value="grid.196.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_196">
-   <PartSelector path="//OCMS/MAGF/V_ZN_196"/>
+   <PartSelector path="//MAGF/V_ZN_196"/>
    <Parameter name="mfield_V_ZN_196" value="grid.196.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_197">
-   <PartSelector path="//OCMS/MAGF/V_ZP_197"/>
+   <PartSelector path="//MAGF/V_ZP_197"/>
    <Parameter name="mfield_V_ZP_197" value="grid.197.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_197">
-   <PartSelector path="//OCMS/MAGF/V_ZN_197"/>
+   <PartSelector path="//MAGF/V_ZN_197"/>
    <Parameter name="mfield_V_ZN_197" value="grid.197.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_198">
-   <PartSelector path="//OCMS/MAGF/V_ZP_198"/>
+   <PartSelector path="//MAGF/V_ZP_198"/>
    <Parameter name="mfield_V_ZP_198" value="grid.198.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_198">
-   <PartSelector path="//OCMS/MAGF/V_ZN_198"/>
+   <PartSelector path="//MAGF/V_ZN_198"/>
    <Parameter name="mfield_V_ZN_198" value="grid.198.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_199">
-   <PartSelector path="//OCMS/MAGF/V_ZP_199"/>
+   <PartSelector path="//MAGF/V_ZP_199"/>
    <Parameter name="mfield_V_ZP_199" value="grid.199.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_199">
-   <PartSelector path="//OCMS/MAGF/V_ZN_199"/>
+   <PartSelector path="//MAGF/V_ZN_199"/>
    <Parameter name="mfield_V_ZN_199" value="grid.199.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_200">
-   <PartSelector path="//OCMS/MAGF/V_ZP_200"/>
+   <PartSelector path="//MAGF/V_ZP_200"/>
    <Parameter name="mfield_V_ZP_200" value="grid.200.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_200">
-   <PartSelector path="//OCMS/MAGF/V_ZN_200"/>
+   <PartSelector path="//MAGF/V_ZN_200"/>
    <Parameter name="mfield_V_ZN_200" value="grid.200.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_201">
-   <PartSelector path="//OCMS/MAGF/V_ZP_201"/>
+   <PartSelector path="//MAGF/V_ZP_201"/>
    <Parameter name="mfield_V_ZP_201" value="grid.201.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_201">
-   <PartSelector path="//OCMS/MAGF/V_ZN_201"/>
+   <PartSelector path="//MAGF/V_ZN_201"/>
    <Parameter name="mfield_V_ZN_201" value="grid.201.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_202">
-   <PartSelector path="//OCMS/MAGF/V_ZP_202"/>
+   <PartSelector path="//MAGF/V_ZP_202"/>
    <Parameter name="mfield_V_ZP_202" value="grid.202.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_202">
-   <PartSelector path="//OCMS/MAGF/V_ZN_202"/>
+   <PartSelector path="//MAGF/V_ZN_202"/>
    <Parameter name="mfield_V_ZN_202" value="grid.202.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_203">
-   <PartSelector path="//OCMS/MAGF/V_ZP_203"/>
+   <PartSelector path="//MAGF/V_ZP_203"/>
    <Parameter name="mfield_V_ZP_203" value="grid.203.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_203">
-   <PartSelector path="//OCMS/MAGF/V_ZN_203"/>
+   <PartSelector path="//MAGF/V_ZN_203"/>
    <Parameter name="mfield_V_ZN_203" value="grid.203.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_204">
-   <PartSelector path="//OCMS/MAGF/V_ZP_204"/>
+   <PartSelector path="//MAGF/V_ZP_204"/>
    <Parameter name="mfield_V_ZP_204" value="grid.204.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_204">
-   <PartSelector path="//OCMS/MAGF/V_ZN_204"/>
+   <PartSelector path="//MAGF/V_ZN_204"/>
    <Parameter name="mfield_V_ZN_204" value="grid.204.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_205">
-   <PartSelector path="//OCMS/MAGF/V_ZP_205"/>
+   <PartSelector path="//MAGF/V_ZP_205"/>
    <Parameter name="mfield_V_ZP_205" value="grid.205.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_205">
-   <PartSelector path="//OCMS/MAGF/V_ZN_205"/>
+   <PartSelector path="//MAGF/V_ZN_205"/>
    <Parameter name="mfield_V_ZN_205" value="grid.205.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_206">
-   <PartSelector path="//OCMS/MAGF/V_ZP_206"/>
+   <PartSelector path="//MAGF/V_ZP_206"/>
    <Parameter name="mfield_V_ZP_206" value="grid.206.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_206">
-   <PartSelector path="//OCMS/MAGF/V_ZN_206"/>
+   <PartSelector path="//MAGF/V_ZN_206"/>
    <Parameter name="mfield_V_ZN_206" value="grid.206.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_207">
-   <PartSelector path="//OCMS/MAGF/V_ZP_207"/>
+   <PartSelector path="//MAGF/V_ZP_207"/>
    <Parameter name="mfield_V_ZP_207" value="grid.207.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_207">
-   <PartSelector path="//OCMS/MAGF/V_ZN_207"/>
+   <PartSelector path="//MAGF/V_ZN_207"/>
    <Parameter name="mfield_V_ZN_207" value="grid.207.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_208">
-   <PartSelector path="//OCMS/MAGF/V_ZP_208"/>
+   <PartSelector path="//MAGF/V_ZP_208"/>
    <Parameter name="mfield_V_ZP_208" value="grid.208.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_208">
-   <PartSelector path="//OCMS/MAGF/V_ZN_208"/>
+   <PartSelector path="//MAGF/V_ZN_208"/>
    <Parameter name="mfield_V_ZN_208" value="grid.208.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_209">
-   <PartSelector path="//OCMS/MAGF/V_ZP_209"/>
+   <PartSelector path="//MAGF/V_ZP_209"/>
    <Parameter name="mfield_V_ZP_209" value="grid.209.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_209">
-   <PartSelector path="//OCMS/MAGF/V_ZN_209"/>
+   <PartSelector path="//MAGF/V_ZN_209"/>
    <Parameter name="mfield_V_ZN_209" value="grid.209.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_210">
-   <PartSelector path="//OCMS/MAGF/V_ZP_210"/>
+   <PartSelector path="//MAGF/V_ZP_210"/>
    <Parameter name="mfield_V_ZP_210" value="grid.210.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_210">
-   <PartSelector path="//OCMS/MAGF/V_ZN_210"/>
+   <PartSelector path="//MAGF/V_ZN_210"/>
    <Parameter name="mfield_V_ZN_210" value="grid.210.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_211">
-   <PartSelector path="//OCMS/MAGF/V_ZP_211"/>
+   <PartSelector path="//MAGF/V_ZP_211"/>
    <Parameter name="mfield_V_ZP_211" value="grid.211.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_211">
-   <PartSelector path="//OCMS/MAGF/V_ZN_211"/>
+   <PartSelector path="//MAGF/V_ZN_211"/>
    <Parameter name="mfield_V_ZN_211" value="grid.211.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_212">
-   <PartSelector path="//OCMS/MAGF/V_ZP_212"/>
+   <PartSelector path="//MAGF/V_ZP_212"/>
    <Parameter name="mfield_V_ZP_212" value="grid.212.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_212">
-   <PartSelector path="//OCMS/MAGF/V_ZN_212"/>
+   <PartSelector path="//MAGF/V_ZN_212"/>
    <Parameter name="mfield_V_ZN_212" value="grid.212.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_213">
-   <PartSelector path="//OCMS/MAGF/V_ZP_213"/>
+   <PartSelector path="//MAGF/V_ZP_213"/>
    <Parameter name="mfield_V_ZP_213" value="grid.213.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_213">
-   <PartSelector path="//OCMS/MAGF/V_ZN_213"/>
+   <PartSelector path="//MAGF/V_ZN_213"/>
    <Parameter name="mfield_V_ZN_213" value="grid.213.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_214">
-   <PartSelector path="//OCMS/MAGF/V_ZP_214"/>
+   <PartSelector path="//MAGF/V_ZP_214"/>
    <Parameter name="mfield_V_ZP_214" value="grid.214.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_214">
-   <PartSelector path="//OCMS/MAGF/V_ZN_214"/>
+   <PartSelector path="//MAGF/V_ZN_214"/>
    <Parameter name="mfield_V_ZN_214" value="grid.214.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_215">
-   <PartSelector path="//OCMS/MAGF/V_ZP_215"/>
+   <PartSelector path="//MAGF/V_ZP_215"/>
    <Parameter name="mfield_V_ZP_215" value="grid.215.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_215">
-   <PartSelector path="//OCMS/MAGF/V_ZN_215"/>
+   <PartSelector path="//MAGF/V_ZN_215"/>
    <Parameter name="mfield_V_ZN_215" value="grid.215.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_216">
-   <PartSelector path="//OCMS/MAGF/V_ZP_216"/>
+   <PartSelector path="//MAGF/V_ZP_216"/>
    <Parameter name="mfield_V_ZP_216" value="grid.216.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_216">
-   <PartSelector path="//OCMS/MAGF/V_ZN_216"/>
+   <PartSelector path="//MAGF/V_ZN_216"/>
    <Parameter name="mfield_V_ZN_216" value="grid.216.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_217">
-   <PartSelector path="//OCMS/MAGF/V_ZP_217"/>
+   <PartSelector path="//MAGF/V_ZP_217"/>
    <Parameter name="mfield_V_ZP_217" value="grid.217.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_217">
-   <PartSelector path="//OCMS/MAGF/V_ZN_217"/>
+   <PartSelector path="//MAGF/V_ZN_217"/>
    <Parameter name="mfield_V_ZN_217" value="grid.217.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_218">
-   <PartSelector path="//OCMS/MAGF/V_ZP_218"/>
+   <PartSelector path="//MAGF/V_ZP_218"/>
    <Parameter name="mfield_V_ZP_218" value="grid.218.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_218">
-   <PartSelector path="//OCMS/MAGF/V_ZN_218"/>
+   <PartSelector path="//MAGF/V_ZN_218"/>
    <Parameter name="mfield_V_ZN_218" value="grid.218.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_219">
-   <PartSelector path="//OCMS/MAGF/V_ZP_219"/>
+   <PartSelector path="//MAGF/V_ZP_219"/>
    <Parameter name="mfield_V_ZP_219" value="grid.219.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_219">
-   <PartSelector path="//OCMS/MAGF/V_ZN_219"/>
+   <PartSelector path="//MAGF/V_ZN_219"/>
    <Parameter name="mfield_V_ZN_219" value="grid.219.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_220">
-   <PartSelector path="//OCMS/MAGF/V_ZP_220"/>
+   <PartSelector path="//MAGF/V_ZP_220"/>
    <Parameter name="mfield_V_ZP_220" value="grid.220.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_220">
-   <PartSelector path="//OCMS/MAGF/V_ZN_220"/>
+   <PartSelector path="//MAGF/V_ZN_220"/>
    <Parameter name="mfield_V_ZN_220" value="grid.220.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_221">
-   <PartSelector path="//OCMS/MAGF/V_ZP_221"/>
+   <PartSelector path="//MAGF/V_ZP_221"/>
    <Parameter name="mfield_V_ZP_221" value="grid.221.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_221">
-   <PartSelector path="//OCMS/MAGF/V_ZN_221"/>
+   <PartSelector path="//MAGF/V_ZN_221"/>
    <Parameter name="mfield_V_ZN_221" value="grid.221.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_222">
-   <PartSelector path="//OCMS/MAGF/V_ZP_222"/>
+   <PartSelector path="//MAGF/V_ZP_222"/>
    <Parameter name="mfield_V_ZP_222" value="grid.222.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_222">
-   <PartSelector path="//OCMS/MAGF/V_ZN_222"/>
+   <PartSelector path="//MAGF/V_ZN_222"/>
    <Parameter name="mfield_V_ZN_222" value="grid.222.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_223">
-   <PartSelector path="//OCMS/MAGF/V_ZP_223"/>
+   <PartSelector path="//MAGF/V_ZP_223"/>
    <Parameter name="mfield_V_ZP_223" value="grid.223.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_223">
-   <PartSelector path="//OCMS/MAGF/V_ZN_223"/>
+   <PartSelector path="//MAGF/V_ZN_223"/>
    <Parameter name="mfield_V_ZN_223" value="grid.223.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_224">
-   <PartSelector path="//OCMS/MAGF/V_ZP_224"/>
+   <PartSelector path="//MAGF/V_ZP_224"/>
    <Parameter name="mfield_V_ZP_224" value="grid.224.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_224">
-   <PartSelector path="//OCMS/MAGF/V_ZN_224"/>
+   <PartSelector path="//MAGF/V_ZN_224"/>
    <Parameter name="mfield_V_ZN_224" value="grid.224.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_225">
-   <PartSelector path="//OCMS/MAGF/V_ZP_225"/>
+   <PartSelector path="//MAGF/V_ZP_225"/>
    <Parameter name="mfield_V_ZP_225" value="grid.225.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_225">
-   <PartSelector path="//OCMS/MAGF/V_ZN_225"/>
+   <PartSelector path="//MAGF/V_ZN_225"/>
    <Parameter name="mfield_V_ZN_225" value="grid.225.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_226">
-   <PartSelector path="//OCMS/MAGF/V_ZP_226"/>
+   <PartSelector path="//MAGF/V_ZP_226"/>
    <Parameter name="mfield_V_ZP_226" value="grid.226.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_226">
-   <PartSelector path="//OCMS/MAGF/V_ZN_226"/>
+   <PartSelector path="//MAGF/V_ZN_226"/>
    <Parameter name="mfield_V_ZN_226" value="grid.226.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_227">
-   <PartSelector path="//OCMS/MAGF/V_ZP_227"/>
+   <PartSelector path="//MAGF/V_ZP_227"/>
    <Parameter name="mfield_V_ZP_227" value="grid.227.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_227">
-   <PartSelector path="//OCMS/MAGF/V_ZN_227"/>
+   <PartSelector path="//MAGF/V_ZN_227"/>
    <Parameter name="mfield_V_ZN_227" value="grid.227.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_228">
-   <PartSelector path="//OCMS/MAGF/V_ZP_228"/>
+   <PartSelector path="//MAGF/V_ZP_228"/>
    <Parameter name="mfield_V_ZP_228" value="grid.228.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_228">
-   <PartSelector path="//OCMS/MAGF/V_ZN_228"/>
+   <PartSelector path="//MAGF/V_ZN_228"/>
    <Parameter name="mfield_V_ZN_228" value="grid.228.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_229">
-   <PartSelector path="//OCMS/MAGF/V_ZP_229"/>
+   <PartSelector path="//MAGF/V_ZP_229"/>
    <Parameter name="mfield_V_ZP_229" value="grid.229.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_229">
-   <PartSelector path="//OCMS/MAGF/V_ZN_229"/>
+   <PartSelector path="//MAGF/V_ZN_229"/>
    <Parameter name="mfield_V_ZN_229" value="grid.229.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_230">
-   <PartSelector path="//OCMS/MAGF/V_ZP_230"/>
+   <PartSelector path="//MAGF/V_ZP_230"/>
    <Parameter name="mfield_V_ZP_230" value="grid.230.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_230">
-   <PartSelector path="//OCMS/MAGF/V_ZN_230"/>
+   <PartSelector path="//MAGF/V_ZN_230"/>
    <Parameter name="mfield_V_ZN_230" value="grid.230.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_231">
-   <PartSelector path="//OCMS/MAGF/V_ZP_231"/>
+   <PartSelector path="//MAGF/V_ZP_231"/>
    <Parameter name="mfield_V_ZP_231" value="grid.231.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_231">
-   <PartSelector path="//OCMS/MAGF/V_ZN_231"/>
+   <PartSelector path="//MAGF/V_ZN_231"/>
    <Parameter name="mfield_V_ZN_231" value="grid.231.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_232">
-   <PartSelector path="//OCMS/MAGF/V_ZP_232"/>
+   <PartSelector path="//MAGF/V_ZP_232"/>
    <Parameter name="mfield_V_ZP_232" value="grid.232.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_232">
-   <PartSelector path="//OCMS/MAGF/V_ZN_232"/>
+   <PartSelector path="//MAGF/V_ZN_232"/>
    <Parameter name="mfield_V_ZN_232" value="grid.232.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_233">
-   <PartSelector path="//OCMS/MAGF/V_ZP_233"/>
+   <PartSelector path="//MAGF/V_ZP_233"/>
    <Parameter name="mfield_V_ZP_233" value="grid.233.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_233">
-   <PartSelector path="//OCMS/MAGF/V_ZN_233"/>
+   <PartSelector path="//MAGF/V_ZN_233"/>
    <Parameter name="mfield_V_ZN_233" value="grid.233.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_234">
-   <PartSelector path="//OCMS/MAGF/V_ZP_234"/>
+   <PartSelector path="//MAGF/V_ZP_234"/>
    <Parameter name="mfield_V_ZP_234" value="grid.234.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_234">
-   <PartSelector path="//OCMS/MAGF/V_ZN_234"/>
+   <PartSelector path="//MAGF/V_ZN_234"/>
    <Parameter name="mfield_V_ZN_234" value="grid.234.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_235">
-   <PartSelector path="//OCMS/MAGF/V_ZP_235"/>
+   <PartSelector path="//MAGF/V_ZP_235"/>
    <Parameter name="mfield_V_ZP_235" value="grid.235.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_235">
-   <PartSelector path="//OCMS/MAGF/V_ZN_235"/>
+   <PartSelector path="//MAGF/V_ZN_235"/>
    <Parameter name="mfield_V_ZN_235" value="grid.235.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_236">
-   <PartSelector path="//OCMS/MAGF/V_ZP_236"/>
+   <PartSelector path="//MAGF/V_ZP_236"/>
    <Parameter name="mfield_V_ZP_236" value="grid.236.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_236">
-   <PartSelector path="//OCMS/MAGF/V_ZN_236"/>
+   <PartSelector path="//MAGF/V_ZN_236"/>
    <Parameter name="mfield_V_ZN_236" value="grid.236.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_237">
-   <PartSelector path="//OCMS/MAGF/V_ZP_237"/>
+   <PartSelector path="//MAGF/V_ZP_237"/>
    <Parameter name="mfield_V_ZP_237" value="grid.237.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_237">
-   <PartSelector path="//OCMS/MAGF/V_ZN_237"/>
+   <PartSelector path="//MAGF/V_ZN_237"/>
    <Parameter name="mfield_V_ZN_237" value="grid.237.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_238">
-   <PartSelector path="//OCMS/MAGF/V_ZP_238"/>
+   <PartSelector path="//MAGF/V_ZP_238"/>
    <Parameter name="mfield_V_ZP_238" value="grid.238.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_238">
-   <PartSelector path="//OCMS/MAGF/V_ZN_238"/>
+   <PartSelector path="//MAGF/V_ZN_238"/>
    <Parameter name="mfield_V_ZN_238" value="grid.238.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_239">
-   <PartSelector path="//OCMS/MAGF/V_ZP_239"/>
+   <PartSelector path="//MAGF/V_ZP_239"/>
    <Parameter name="mfield_V_ZP_239" value="grid.239.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_239">
-   <PartSelector path="//OCMS/MAGF/V_ZN_239"/>
+   <PartSelector path="//MAGF/V_ZN_239"/>
    <Parameter name="mfield_V_ZN_239" value="grid.239.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_240">
-   <PartSelector path="//OCMS/MAGF/V_ZP_240"/>
+   <PartSelector path="//MAGF/V_ZP_240"/>
    <Parameter name="mfield_V_ZP_240" value="grid.240.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_240">
-   <PartSelector path="//OCMS/MAGF/V_ZN_240"/>
+   <PartSelector path="//MAGF/V_ZN_240"/>
    <Parameter name="mfield_V_ZN_240" value="grid.240.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_241">
-   <PartSelector path="//OCMS/MAGF/V_ZP_241"/>
+   <PartSelector path="//MAGF/V_ZP_241"/>
    <Parameter name="mfield_V_ZP_241" value="grid.241.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_241">
-   <PartSelector path="//OCMS/MAGF/V_ZN_241"/>
+   <PartSelector path="//MAGF/V_ZN_241"/>
    <Parameter name="mfield_V_ZN_241" value="grid.241.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_242">
-   <PartSelector path="//OCMS/MAGF/V_ZP_242"/>
+   <PartSelector path="//MAGF/V_ZP_242"/>
    <Parameter name="mfield_V_ZP_242" value="grid.242.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_242">
-   <PartSelector path="//OCMS/MAGF/V_ZN_242"/>
+   <PartSelector path="//MAGF/V_ZN_242"/>
    <Parameter name="mfield_V_ZN_242" value="grid.242.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_243">
-   <PartSelector path="//OCMS/MAGF/V_ZP_243"/>
+   <PartSelector path="//MAGF/V_ZP_243"/>
    <Parameter name="mfield_V_ZP_243" value="grid.243.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_243">
-   <PartSelector path="//OCMS/MAGF/V_ZN_243"/>
+   <PartSelector path="//MAGF/V_ZN_243"/>
    <Parameter name="mfield_V_ZN_243" value="grid.243.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_244">
-   <PartSelector path="//OCMS/MAGF/V_ZP_244"/>
+   <PartSelector path="//MAGF/V_ZP_244"/>
    <Parameter name="mfield_V_ZP_244" value="grid.244.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_244">
-   <PartSelector path="//OCMS/MAGF/V_ZN_244"/>
+   <PartSelector path="//MAGF/V_ZN_244"/>
    <Parameter name="mfield_V_ZN_244" value="grid.244.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_245">
-   <PartSelector path="//OCMS/MAGF/V_ZP_245"/>
+   <PartSelector path="//MAGF/V_ZP_245"/>
    <Parameter name="mfield_V_ZP_245" value="grid.245.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_245">
-   <PartSelector path="//OCMS/MAGF/V_ZN_245"/>
+   <PartSelector path="//MAGF/V_ZN_245"/>
    <Parameter name="mfield_V_ZN_245" value="grid.245.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_246">
-   <PartSelector path="//OCMS/MAGF/V_ZP_246"/>
+   <PartSelector path="//MAGF/V_ZP_246"/>
    <Parameter name="mfield_V_ZP_246" value="grid.246.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_246">
-   <PartSelector path="//OCMS/MAGF/V_ZN_246"/>
+   <PartSelector path="//MAGF/V_ZN_246"/>
    <Parameter name="mfield_V_ZN_246" value="grid.246.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_247">
-   <PartSelector path="//OCMS/MAGF/V_ZP_247"/>
+   <PartSelector path="//MAGF/V_ZP_247"/>
    <Parameter name="mfield_V_ZP_247" value="grid.247.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_247">
-   <PartSelector path="//OCMS/MAGF/V_ZN_247"/>
+   <PartSelector path="//MAGF/V_ZN_247"/>
    <Parameter name="mfield_V_ZN_247" value="grid.247.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_248">
-   <PartSelector path="//OCMS/MAGF/V_ZP_248"/>
+   <PartSelector path="//MAGF/V_ZP_248"/>
    <Parameter name="mfield_V_ZP_248" value="grid.248.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_248">
-   <PartSelector path="//OCMS/MAGF/V_ZN_248"/>
+   <PartSelector path="//MAGF/V_ZN_248"/>
    <Parameter name="mfield_V_ZN_248" value="grid.248.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_249">
-   <PartSelector path="//OCMS/MAGF/V_ZP_249"/>
+   <PartSelector path="//MAGF/V_ZP_249"/>
    <Parameter name="mfield_V_ZP_249" value="grid.249.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_249">
-   <PartSelector path="//OCMS/MAGF/V_ZN_249"/>
+   <PartSelector path="//MAGF/V_ZN_249"/>
    <Parameter name="mfield_V_ZN_249" value="grid.249.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_250">
-   <PartSelector path="//OCMS/MAGF/V_ZP_250"/>
+   <PartSelector path="//MAGF/V_ZP_250"/>
    <Parameter name="mfield_V_ZP_250" value="grid.250.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_250">
-   <PartSelector path="//OCMS/MAGF/V_ZN_250"/>
+   <PartSelector path="//MAGF/V_ZN_250"/>
    <Parameter name="mfield_V_ZN_250" value="grid.250.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_251">
-   <PartSelector path="//OCMS/MAGF/V_ZP_251"/>
+   <PartSelector path="//MAGF/V_ZP_251"/>
    <Parameter name="mfield_V_ZP_251" value="grid.251.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_251">
-   <PartSelector path="//OCMS/MAGF/V_ZN_251"/>
+   <PartSelector path="//MAGF/V_ZN_251"/>
    <Parameter name="mfield_V_ZN_251" value="grid.251.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_252">
-   <PartSelector path="//OCMS/MAGF/V_ZP_252"/>
+   <PartSelector path="//MAGF/V_ZP_252"/>
    <Parameter name="mfield_V_ZP_252" value="grid.252.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_252">
-   <PartSelector path="//OCMS/MAGF/V_ZN_252"/>
+   <PartSelector path="//MAGF/V_ZN_252"/>
    <Parameter name="mfield_V_ZN_252" value="grid.252.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_253">
-   <PartSelector path="//OCMS/MAGF/V_ZP_253"/>
+   <PartSelector path="//MAGF/V_ZP_253"/>
    <Parameter name="mfield_V_ZP_253" value="grid.253.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_253">
-   <PartSelector path="//OCMS/MAGF/V_ZN_253"/>
+   <PartSelector path="//MAGF/V_ZN_253"/>
    <Parameter name="mfield_V_ZN_253" value="grid.253.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_254">
-   <PartSelector path="//OCMS/MAGF/V_ZP_254"/>
+   <PartSelector path="//MAGF/V_ZP_254"/>
    <Parameter name="mfield_V_ZP_254" value="grid.254.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_254">
-   <PartSelector path="//OCMS/MAGF/V_ZN_254"/>
+   <PartSelector path="//MAGF/V_ZN_254"/>
    <Parameter name="mfield_V_ZN_254" value="grid.254.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_255">
-   <PartSelector path="//OCMS/MAGF/V_ZP_255"/>
+   <PartSelector path="//MAGF/V_ZP_255"/>
    <Parameter name="mfield_V_ZP_255" value="grid.255.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_255">
-   <PartSelector path="//OCMS/MAGF/V_ZN_255"/>
+   <PartSelector path="//MAGF/V_ZN_255"/>
    <Parameter name="mfield_V_ZN_255" value="grid.255.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_256">
-   <PartSelector path="//OCMS/MAGF/V_ZP_256"/>
+   <PartSelector path="//MAGF/V_ZP_256"/>
    <Parameter name="mfield_V_ZP_256" value="grid.256.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_256">
-   <PartSelector path="//OCMS/MAGF/V_ZN_256"/>
+   <PartSelector path="//MAGF/V_ZN_256"/>
    <Parameter name="mfield_V_ZN_256" value="grid.256.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_257">
-   <PartSelector path="//OCMS/MAGF/V_ZP_257"/>
+   <PartSelector path="//MAGF/V_ZP_257"/>
    <Parameter name="mfield_V_ZP_257" value="grid.257.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_257">
-   <PartSelector path="//OCMS/MAGF/V_ZN_257"/>
+   <PartSelector path="//MAGF/V_ZN_257"/>
    <Parameter name="mfield_V_ZN_257" value="grid.257.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_258">
-   <PartSelector path="//OCMS/MAGF/V_ZP_258"/>
+   <PartSelector path="//MAGF/V_ZP_258"/>
    <Parameter name="mfield_V_ZP_258" value="grid.258.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_258">
-   <PartSelector path="//OCMS/MAGF/V_ZN_258"/>
+   <PartSelector path="//MAGF/V_ZN_258"/>
    <Parameter name="mfield_V_ZN_258" value="grid.258.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_259">
-   <PartSelector path="//OCMS/MAGF/V_ZP_259"/>
+   <PartSelector path="//MAGF/V_ZP_259"/>
    <Parameter name="mfield_V_ZP_259" value="grid.259.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_259">
-   <PartSelector path="//OCMS/MAGF/V_ZN_259"/>
+   <PartSelector path="//MAGF/V_ZN_259"/>
    <Parameter name="mfield_V_ZN_259" value="grid.259.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_260">
-   <PartSelector path="//OCMS/MAGF/V_ZP_260"/>
+   <PartSelector path="//MAGF/V_ZP_260"/>
    <Parameter name="mfield_V_ZP_260" value="grid.260.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_260">
-   <PartSelector path="//OCMS/MAGF/V_ZN_260"/>
+   <PartSelector path="//MAGF/V_ZN_260"/>
    <Parameter name="mfield_V_ZN_260" value="grid.260.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_261">
-   <PartSelector path="//OCMS/MAGF/V_ZP_261"/>
+   <PartSelector path="//MAGF/V_ZP_261"/>
    <Parameter name="mfield_V_ZP_261" value="grid.261.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_261">
-   <PartSelector path="//OCMS/MAGF/V_ZN_261"/>
+   <PartSelector path="//MAGF/V_ZN_261"/>
    <Parameter name="mfield_V_ZN_261" value="grid.261.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_262">
-   <PartSelector path="//OCMS/MAGF/V_ZP_262"/>
+   <PartSelector path="//MAGF/V_ZP_262"/>
    <Parameter name="mfield_V_ZP_262" value="grid.262.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_262">
-   <PartSelector path="//OCMS/MAGF/V_ZN_262"/>
+   <PartSelector path="//MAGF/V_ZN_262"/>
    <Parameter name="mfield_V_ZN_262" value="grid.262.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_263">
-   <PartSelector path="//OCMS/MAGF/V_ZP_263"/>
+   <PartSelector path="//MAGF/V_ZP_263"/>
    <Parameter name="mfield_V_ZP_263" value="grid.263.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_263">
-   <PartSelector path="//OCMS/MAGF/V_ZN_263"/>
+   <PartSelector path="//MAGF/V_ZN_263"/>
    <Parameter name="mfield_V_ZN_263" value="grid.263.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_264">
-   <PartSelector path="//OCMS/MAGF/V_ZP_264"/>
+   <PartSelector path="//MAGF/V_ZP_264"/>
    <Parameter name="mfield_V_ZP_264" value="grid.264.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_264">
-   <PartSelector path="//OCMS/MAGF/V_ZN_264"/>
+   <PartSelector path="//MAGF/V_ZN_264"/>
    <Parameter name="mfield_V_ZN_264" value="grid.264.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_265">
-   <PartSelector path="//OCMS/MAGF/V_ZP_265"/>
+   <PartSelector path="//MAGF/V_ZP_265"/>
    <Parameter name="mfield_V_ZP_265" value="grid.265.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_265">
-   <PartSelector path="//OCMS/MAGF/V_ZN_265"/>
+   <PartSelector path="//MAGF/V_ZN_265"/>
    <Parameter name="mfield_V_ZN_265" value="grid.265.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_266">
-   <PartSelector path="//OCMS/MAGF/V_ZP_266"/>
+   <PartSelector path="//MAGF/V_ZP_266"/>
    <Parameter name="mfield_V_ZP_266" value="grid.266.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_266">
-   <PartSelector path="//OCMS/MAGF/V_ZN_266"/>
+   <PartSelector path="//MAGF/V_ZN_266"/>
    <Parameter name="mfield_V_ZN_266" value="grid.266.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_267">
-   <PartSelector path="//OCMS/MAGF/V_ZP_267"/>
+   <PartSelector path="//MAGF/V_ZP_267"/>
    <Parameter name="mfield_V_ZP_267" value="grid.267.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_267">
-   <PartSelector path="//OCMS/MAGF/V_ZN_267"/>
+   <PartSelector path="//MAGF/V_ZN_267"/>
    <Parameter name="mfield_V_ZN_267" value="grid.267.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_268">
-   <PartSelector path="//OCMS/MAGF/V_ZP_268"/>
+   <PartSelector path="//MAGF/V_ZP_268"/>
    <Parameter name="mfield_V_ZP_268" value="grid.268.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_268">
-   <PartSelector path="//OCMS/MAGF/V_ZN_268"/>
+   <PartSelector path="//MAGF/V_ZN_268"/>
    <Parameter name="mfield_V_ZN_268" value="grid.268.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_269">
-   <PartSelector path="//OCMS/MAGF/V_ZP_269"/>
+   <PartSelector path="//MAGF/V_ZP_269"/>
    <Parameter name="mfield_V_ZP_269" value="grid.269.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_269">
-   <PartSelector path="//OCMS/MAGF/V_ZN_269"/>
+   <PartSelector path="//MAGF/V_ZN_269"/>
    <Parameter name="mfield_V_ZN_269" value="grid.269.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_270">
-   <PartSelector path="//OCMS/MAGF/V_ZP_270"/>
+   <PartSelector path="//MAGF/V_ZP_270"/>
    <Parameter name="mfield_V_ZP_270" value="grid.270.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_270">
-   <PartSelector path="//OCMS/MAGF/V_ZN_270"/>
+   <PartSelector path="//MAGF/V_ZN_270"/>
    <Parameter name="mfield_V_ZN_270" value="grid.270.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZP_271">
-   <PartSelector path="//OCMS/MAGF/V_ZP_271"/>
+   <PartSelector path="//MAGF/V_ZP_271"/>
    <Parameter name="mfield_V_ZP_271" value="grid.271.bin"/>
  </SpecPar>
  <SpecPar name="Magnetic field map of Volume_ZN_271">
-   <PartSelector path="//OCMS/MAGF/V_ZN_271"/>
+   <PartSelector path="//MAGF/V_ZN_271"/>
    <Parameter name="mfield_V_ZN_271" value="grid.271.bin"/>
  </SpecPar>
 </SpecParSection> 
