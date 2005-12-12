@@ -2453,7 +2453,7 @@
 
 <PosPartSection label="magn_field_volumes.xml">
  <PosPart copyNumber="1">
-   <rParent name="cms:OCMS"/>
+   <rParent name="cms:MCMS"/>
    <rChild name="MAGF"/>
   <rRotation name="rotations:000D"/>
  </PosPart>
