@@ -17,6 +17,22 @@
   <File name="Geometry/TrackerCommonData/data/pixbarlayer1.xml"     url="."/>
   <File name="Geometry/TrackerCommonData/data/pixbarlayer2.xml"     url="."/>
   <File name="Geometry/TrackerCommonData/data/pixbar.xml"           url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"    url="."/>
+  <!--File name="Geometry/TrackerCommonData/data/pixfwdTest.xml"         url="."/-->
+  <File name="Geometry/TrackerCommonData/data/pixfwd.xml"             url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdCylinder.xml"     url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdDisk.xml"         url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdBlade.xml"        url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdPanel.xml"        url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdPanelBase.xml"    url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq.xml"         url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq2x3.xml"      url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq2x4.xml"      url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq2x5.xml"      url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x5Left.xml"  url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x5Right.xml" url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Left.xml"  url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Right.xml" url="."/>
   <File name="Geometry/TrackerCommonData/data/tibmaterial.xml"      url="."/>
   <File name="Geometry/TrackerCommonData/data/tibmodpar.xml"        url="."/>
   <File name="Geometry/TrackerCommonData/data/tibmodule0.xml"       url="."/>
