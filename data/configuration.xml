@@ -8,15 +8,7 @@
   <File name="Geometry/CMSCommonData/data/beampipe.xml"             url="."/>
   <File name="Geometry/CMSCommonData/data/mgnt.xml"                 url="."/>
   <File name="Geometry/CMSCommonData/data/cavern.xml"               url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixbarmaterial.xml"   url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixbarladder.xml"     url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixbarladderfull.xml" url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixbarladderhalf.xml" url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixbarlayer.xml"      url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixbarlayer0.xml"     url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixbarlayer1.xml"     url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixbarlayer2.xml"     url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixbar.xml"           url="."/>
+  <!-- Mike added from pixfwdConfiguration.xml -->
   <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"    url="."/>
   <!--File name="Geometry/TrackerCommonData/data/pixfwdTest.xml"         url="."/-->
   <File name="Geometry/TrackerCommonData/data/pixfwd.xml"             url="."/>
@@ -33,6 +25,16 @@
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x5Right.xml" url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Left.xml"  url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Right.xml" url="."/>
+  <!-- end Mike added -->
+  <File name="Geometry/TrackerCommonData/data/pixbarmaterial.xml"   url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarladder.xml"     url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarladderfull.xml" url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarladderhalf.xml" url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarlayer.xml"      url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarlayer0.xml"     url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarlayer1.xml"     url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarlayer2.xml"     url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbar.xml"           url="."/>
   <File name="Geometry/TrackerCommonData/data/tibmaterial.xml"      url="."/>
   <File name="Geometry/TrackerCommonData/data/tibmodpar.xml"        url="."/>
   <File name="Geometry/TrackerCommonData/data/tibmodule0.xml"       url="."/>
@@ -194,6 +196,7 @@
   <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
   <File name="Geometry/HcalCommonData/data/hcalsens.xml"            url="."/> 
   <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
+  <File name="Geometry/HcalSimData/data/CaloUtil.xml"               url="."/>
   <File name="Geometry/MuonSimData/data/muonSens.xml"               url="."/> 
   <File name="Geometry/CSCSimAlgo/data/cscSpecs.xml"                url="."/>
   <File name="Geometry/CSCSimAlgo/data/cscSpecsFilter.xml"          url="."/>
