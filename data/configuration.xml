@@ -188,18 +188,29 @@
   <File name="Geometry/MuonCommonData/data/mb4.xml"                 url="."/>
   <File name="Geometry/MuonCommonData/data/muonYoke.xml"            url="."/> 
   <File name="Geometry/MuonCommonData/data/mf.xml"                  url="."/>
+
+  <!-- numbering for all muon DT, RPC and CSC -->
   <File name="Geometry/MuonCommonData/data/muonNumbering.xml"       url="."/>
+  <!-- -->
   <File name="Geometry/TrackerCommonData/data/trackerStructureTopology.xml" url="."/>
   <File name="Geometry/TrackerSimData/data/trackersens.xml"         url="."/> 
   <File name="Geometry/TrackerSimData/data/trackerProdCuts.xml"     url="."/>
+  <!-- -->
   <File name="Geometry/EcalSimData/data/ecalsens.xml"               url="."/> 
   <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
+  <!-- -->
   <File name="Geometry/HcalCommonData/data/hcalsens.xml"            url="."/> 
   <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
   <File name="Geometry/HcalSimData/data/CaloUtil.xml"               url="."/>
+  <!-- all Muon (CSC, DT, RPC) SpecPars to define sensitive volumes -->
   <File name="Geometry/MuonSimData/data/muonSens.xml"               url="."/> 
+  <!-- DT filter for reconstruction geometry -->
+  <File name="Geometry/DTSimAlgo/data/dtSpecsFilter.xml"   url="."/> 
+  <!-- CSC data -->
   <File name="Geometry/CSCSimAlgo/data/cscSpecs.xml"                url="."/>
+  <!-- CSC filter for reconstruction geometry -->
   <File name="Geometry/CSCSimAlgo/data/cscSpecsFilter.xml"          url="."/>
+  <!-- just the MagneticField geometry -->
   <File name="Geometry/CMSCommonData/data/MagneticFieldVolumes.xml" url="."/> 
  </Include>
  <Root fileName="cms.xml" logicalPartName="OCMS"/>
