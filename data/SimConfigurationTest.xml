@@ -189,31 +189,44 @@
   <File name="Geometry/MuonCommonData/data/muonYoke.xml"            url="."/> 
   <File name="Geometry/MuonCommonData/data/mf.xml"                  url="."/>
 
-  <!-- numbering for all muon DT, RPC and CSC -->
+  <!-- numbering for all muon DT, RPC and CSC reco and/or sim? -->
   <File name="Geometry/MuonCommonData/data/muonNumbering.xml"       url="."/>
-  <!-- -->
+
+  <!-- Tracker file to define structure ... is this for reco and/or sim only? -->
   <File name="Geometry/TrackerCommonData/data/trackerStructureTopology.xml" url="."/>
+
+  <!-- Tracker SpecPar selection to define sensitive volumes -->
   <File name="Geometry/TrackerSimData/data/trackersens.xml"         url="."/> 
-  <File name="Geometry/TrackerSimData/data/trackerProdCuts.xml"     url="."/>
-  <!-- -->
+
+  <!-- ECAL SpecPar selection to define sensitive volumes -->
   <File name="Geometry/EcalSimData/data/ecalsens.xml"               url="."/> 
-  <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
-  <!-- -->
+
+  <!-- HCAL SpecPar selection to define sensitive volumes -->
   <File name="Geometry/HcalCommonData/data/hcalsens.xml"            url="."/> 
-  <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
+
+  <!-- Calo ... ??? Sim? Reco? both? -->
   <File name="Geometry/HcalSimData/data/CaloUtil.xml"               url="."/>
+
   <!-- all Muon (CSC, DT, RPC) SpecPars to define sensitive volumes -->
   <File name="Geometry/MuonSimData/data/muonSens.xml"               url="."/> 
+
   <!-- DT filter for reconstruction geometry -->
   <File name="Geometry/DTSimAlgo/data/dtSpecsFilter.xml"   url="."/> 
-  <!-- CSC data -->
-  <File name="Geometry/CSCSimAlgo/data/cscSpecs.xml"                url="."/>
+
   <!-- CSC filter for reconstruction geometry -->
   <File name="Geometry/CSCSimAlgo/data/cscSpecsFilter.xml"          url="."/>
-  <!-- just the MagneticField geometry -->
-  <File name="Geometry/CMSCommonData/data/MagneticFieldVolumes.xml" url="."/>
-  <!-- this is the one from SimG4 -->
+
+  <!-- CSC data -->
+  <File name="Geometry/CSCSimAlgo/data/cscSpecs.xml"                url="."/>
+
+  <!-- SIM ONLY -->
   <File name="SimG4Core/MagneticField/FieldParameters.xml"   url="."/>
+
+  <!-- Production cuts... SIM ONLY? or both?-->
+  <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
+  <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
+  <File name="Geometry/TrackerSimData/data/trackerProdCuts.xml"     url="."/>
+
  </Include>
  <Root fileName="cms.xml" logicalPartName="OCMS"/>
 </Configuration>
