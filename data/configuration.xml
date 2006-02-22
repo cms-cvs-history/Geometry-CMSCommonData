@@ -205,7 +205,7 @@
   <!-- all Muon (CSC, DT, RPC) SpecPars to define sensitive volumes -->
   <File name="Geometry/MuonSimData/data/muonSens.xml"               url="."/> 
   <!-- DT filter for reconstruction geometry -->
-  <File name="Geometry/DTSimAlgo/data/dtSpecsFilter.xml"   url="."/> 
+  <File name="Geometry/DTGeometryBuilder/data/dtSpecsFilter.xml"   url="."/> 
   <!-- CSC data -->
   <File name="Geometry/CSCSimAlgo/data/cscSpecs.xml"                url="."/>
   <!-- CSC filter for reconstruction geometry -->

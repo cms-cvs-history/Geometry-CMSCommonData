@@ -211,7 +211,7 @@
   <File name="Geometry/MuonSimData/data/muonSens.xml"               url="."/> 
 
   <!-- DT filter for reconstruction geometry -->
-  <File name="Geometry/DTSimAlgo/data/dtSpecsFilter.xml"   url="."/> 
+  <File name="Geometry/DTGeometryBuilder/data/dtSpecsFilter.xml"   url="."/> 
 
   <!-- CSC filter for reconstruction geometry -->
   <File name="Geometry/CSCSimAlgo/data/cscSpecsFilter.xml"          url="."/>
