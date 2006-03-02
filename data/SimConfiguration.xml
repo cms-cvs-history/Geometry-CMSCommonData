@@ -4,7 +4,9 @@
       <File name="Geometry/CMSCommonData/data/cms.xml"                               url="."/>
       <File name="Geometry/CMSCommonData/data/beampipe.xml"                          url="."/>
       <File name="Geometry/CMSCommonData/data/mgnt.xml"                              url="."/>
-      <!-- mec:20060302: cavern removed as of request by D. Elvira -->
+      <!-- mec:20060302: cavern removed as of request by D. Elvira 
+       as per recommendation of P. Arce about particles bouncing 
+       around too much in Simulation -->
       <!--File name="Geometry/CMSCommonData/data/cavern.xml"                            url="."/-->
       <File name="Geometry/CMSCommonData/data/materials.xml"                         url="."/>  
       <File name="Geometry/CMSCommonData/data/rotations.xml"                         url="."/>
