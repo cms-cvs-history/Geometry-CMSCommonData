@@ -7,7 +7,8 @@
   <File name="Geometry/CMSCommonData/data/cms.xml"                  url="."/>
   <File name="Geometry/CMSCommonData/data/beampipe.xml"             url="."/>
   <File name="Geometry/CMSCommonData/data/mgnt.xml"                 url="."/>
-  <File name="Geometry/CMSCommonData/data/cavern.xml"               url="."/>
+  <!-- mec:20060302: cavern removed as of request by D. Elvira -->
+  <!--File name="Geometry/CMSCommonData/data/cavern.xml"               url="."/-->
   <!-- Mike added from pixfwdConfiguration.xml -->
   <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"    url="."/>
   <!--File name="Geometry/TrackerCommonData/data/pixfwdTest.xml"         url="."/-->

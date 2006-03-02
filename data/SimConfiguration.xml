@@ -4,7 +4,8 @@
       <File name="Geometry/CMSCommonData/data/cms.xml"                               url="."/>
       <File name="Geometry/CMSCommonData/data/beampipe.xml"                          url="."/>
       <File name="Geometry/CMSCommonData/data/mgnt.xml"                              url="."/>
-      <File name="Geometry/CMSCommonData/data/cavern.xml"                            url="."/>
+      <!-- mec:20060302: cavern removed as of request by D. Elvira -->
+      <!--File name="Geometry/CMSCommonData/data/cavern.xml"                            url="."/-->
       <File name="Geometry/CMSCommonData/data/materials.xml"                         url="."/>  
       <File name="Geometry/CMSCommonData/data/rotations.xml"                         url="."/>
       <File name="Geometry/TrackerCommonData/data/pixbar.xml"		        url="."/>
