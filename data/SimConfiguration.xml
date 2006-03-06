@@ -36,7 +36,7 @@
       <File name="Geometry/TrackerCommonData/data/pixfwd.xml"                           url="."/>
       <File name="Geometry/TrackerCommonData/data/tracker.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/trackermaterial.xml"	        url="."/>
-      <File name="Geometry/TrackerCommonData/data/trackerConfiguration.xml"	        url="."/>
+     
       <File name="Geometry/TrackerCommonData/data/tob.xml"			        url="."/>
       <File name="Geometry/TrackerCommonData/data/tobrodpar.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tobrod5.xml"		        url="."/>
@@ -65,7 +65,7 @@
       <File name="Geometry/TrackerCommonData/data/tobmodule0.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tobmodpar.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tobmaterial.xml"		        url="."/>
-      <File name="Geometry/TrackerCommonData/data/tobConfiguration.xml"	        url="."/>
+
       <File name="Geometry/TrackerCommonData/data/tid.xml"			        url="."/>
       <File name="Geometry/TrackerCommonData/data/tidringpar.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tidring2.xml"		        url="."/>
@@ -85,7 +85,7 @@
       <File name="Geometry/TrackerCommonData/data/tidmodpar.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tidmaterial.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tidf.xml"			        url="."/>
-      <File name="Geometry/TrackerCommonData/data/tidConfiguration.xml"	        url="."/>
+
       <File name="Geometry/TrackerCommonData/data/tidb.xml"			        url="."/>
       <File name="Geometry/TrackerCommonData/data/tib.xml"			        url="."/>
       <File name="Geometry/TrackerCommonData/data/tibstringss.xml"		        url="."/>
@@ -126,7 +126,7 @@
       <File name="Geometry/TrackerCommonData/data/tiblayer2.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tiblayer1.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tiblayer0.xml"		        url="."/>
-      <File name="Geometry/TrackerCommonData/data/tibConfiguration.xml"	        url="."/>
+
       <File name="Geometry/TrackerCommonData/data/tec.xml"			        url="."/>
       <File name="Geometry/TrackerCommonData/data/tecwheel.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tecwheeld.xml"		        url="."/>
@@ -176,7 +176,7 @@
       <File name="Geometry/TrackerCommonData/data/tecmodule0.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tecmodpar.xml"		        url="."/>
       <File name="Geometry/TrackerCommonData/data/tecmaterial.xml"		        url="."/>
-      <File name="Geometry/TrackerCommonData/data/tecConfiguration.xml"	        url="."/>	       
+
       <File name="Geometry/MuonCommonData/data/mbCommon.xml"   url="."/>
       <File name="Geometry/MuonCommonData/data/mb1.xml"   url="."/>
       <File name="Geometry/MuonCommonData/data/mb2.xml"   url="."/>
@@ -207,7 +207,6 @@
 
       <File name="Geometry/MuonSimData/data/muonSens.xml"   url="."/> 
       <File name="Geometry/MuonSimData/data/muonProdCuts.xml"   url="."/>
-      <File name="SimG4Core/MagneticField/FieldParameters.xml"   url="."/>
 
       <File name="Geometry/EcalSimData/data/ecalsens.xml"               url="."/>
       <File name="Geometry/HcalCommonData/data/hcalsens.xml"            url="."/>

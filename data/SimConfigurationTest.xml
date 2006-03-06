@@ -222,9 +222,6 @@
   <!-- CSC data -->
   <File name="Geometry/CSCSimAlgo/data/cscSpecs.xml"                url="."/>
 
-  <!-- SIM ONLY -->
-  <File name="SimG4Core/MagneticField/FieldParameters.xml"   url="."/>
-
   <!-- Production cuts... SIM ONLY? or both?-->
   <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
   <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
