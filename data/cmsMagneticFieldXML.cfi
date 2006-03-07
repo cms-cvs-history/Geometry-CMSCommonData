@@ -1,0 +1,5 @@
+es_source magfield = XMLIdealGeometryESSource 
+{
+   FileInPath GeometryConfiguration ="Geometry/CMSCommonData/data/FieldConfiguration.xml"
+   string rootNodeName="MagneticFieldVolumes:MAGF"
+}
