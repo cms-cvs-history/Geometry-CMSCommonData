@@ -217,10 +217,10 @@
   <File name="Geometry/DTGeometryBuilder/data/dtSpecsFilter.xml"   url="."/> 
 
   <!-- CSC filter for reconstruction geometry -->
-  <File name="Geometry/CSCSimAlgo/data/cscSpecsFilter.xml"          url="."/>
+  <File name="Geometry/CSCGeometryBuilder/data/cscSpecsFilter.xml"          url="."/>
 
   <!-- CSC data -->
-  <File name="Geometry/CSCSimAlgo/data/cscSpecs.xml"                url="."/>
+  <File name="Geometry/CSCGeometryBuilder/data/cscSpecs.xml"                url="."/>
 
   <!-- Production cuts... SIM ONLY? or both?-->
   <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
