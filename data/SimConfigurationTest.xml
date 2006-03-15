@@ -222,6 +222,9 @@
   <!-- CSC data -->
   <File name="Geometry/CSCGeometryBuilder/data/cscSpecs.xml"                url="."/>
 
+  <!-- RPC specs -->
+  <File name="Geometry/RPCGeometryBuilder/data/RPCSpecs.xml"          url="."/>
+
   <!-- Production cuts... SIM ONLY? or both?-->
   <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
   <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
