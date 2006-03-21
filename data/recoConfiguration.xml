@@ -7,9 +7,7 @@
   <File name="Geometry/CMSCommonData/data/cms.xml"                  url="."/>
   <File name="Geometry/CMSCommonData/data/beampipe.xml"             url="."/>
   <File name="Geometry/CMSCommonData/data/mgnt.xml"                 url="."/>
-  <!-- BOTH RECO AND SIM SAY THEY DON'T NEED THIS... WHO DOES? -->
-  <!--File name="Geometry/CMSCommonData/data/cavern.xml"               url="."/-->
-  <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"    url="."/>
+  <File name="Geometry/CMSCommonData/data/cavern.xml"               url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwd.xml"             url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdCylinder.xml"     url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdDisk.xml"         url="."/>
@@ -187,6 +185,7 @@
   <File name="Geometry/MuonCommonData/data/muonYoke.xml"            url="."/> 
   <File name="Geometry/MuonCommonData/data/mf.xml"                  url="."/>
 
+
   <!-- numbering for all muon DT, RPC and CSC reco and/or sim? -->
   <File name="Geometry/MuonCommonData/data/muonNumbering.xml"       url="."/>
 
@@ -219,17 +218,6 @@
 
   <!-- RPC specs -->
   <File name="Geometry/RPCGeometryBuilder/data/RPCSpecs.xml"          url="."/>
-
-  <!-- Magnetic Field Only!!! -->
-  <File name="Geometry/CMSCommonData/data/MagneticFieldVolumes.xml" url="."/>
-  <File name="Geometry/CMSCommonData/data/FieldParameters.xml"   url="."/>
-
-
-  <!-- Production cuts... Simulation only!!! -->
-  <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
-  <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
-  <File name="Geometry/TrackerSimData/data/trackerProdCuts.xml"     url="."/>
-
 
  </Include>
  <Root fileName="cms.xml" logicalPartName="OCMS"/>

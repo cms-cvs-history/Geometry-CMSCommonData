@@ -7,13 +7,8 @@
   <File name="Geometry/CMSCommonData/data/cms.xml"                  url="."/>
   <File name="Geometry/CMSCommonData/data/beampipe.xml"             url="."/>
   <File name="Geometry/CMSCommonData/data/mgnt.xml"                 url="."/>
-  <!-- mec:20060302: cavern removed as of request by D. Elvira 
-       as per recommendation of P. Arce about particles bouncing 
-       around too much in Simulation -->
   <!--File name="Geometry/CMSCommonData/data/cavern.xml"               url="."/-->
-  <!-- Mike added from pixfwdConfiguration.xml -->
   <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"    url="."/>
-  <!--File name="Geometry/TrackerCommonData/data/pixfwdTest.xml"         url="."/-->
   <File name="Geometry/TrackerCommonData/data/pixfwd.xml"             url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdCylinder.xml"     url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdDisk.xml"         url="."/>
@@ -28,7 +23,6 @@
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x5Right.xml" url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Left.xml"  url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Right.xml" url="."/>
-  <!-- end Mike added -->
   <File name="Geometry/TrackerCommonData/data/pixbarmaterial.xml"   url="."/>
   <File name="Geometry/TrackerCommonData/data/pixbarladder.xml"     url="."/>
   <File name="Geometry/TrackerCommonData/data/pixbarladderfull.xml" url="."/>
@@ -225,7 +219,7 @@
   <!-- RPC specs -->
   <File name="Geometry/RPCGeometryBuilder/data/RPCSpecs.xml"          url="."/>
 
-  <!-- Production cuts... SIM ONLY? or both?-->
+  <!-- Production cuts... Simulation only!!! -->
   <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
   <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
   <File name="Geometry/TrackerSimData/data/trackerProdCuts.xml"     url="."/>
