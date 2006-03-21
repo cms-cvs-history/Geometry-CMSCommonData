@@ -5,6 +5,6 @@
       <File name="Geometry/CMSCommonData/data/MagneticFieldVolumes.xml" url="."/> 
       <File name="Geometry/CMSCommonData/data/FieldParameters.xml" url="."/> 
  </Include>								        
- <Root fileName="cms.xml"          logicalPartName="MCMS"/>		        
+ <Root fileName="MagneticFieldVolumes.xml"          logicalPartName="MAGF"/>		        
 </Configuration>							        
 									        
