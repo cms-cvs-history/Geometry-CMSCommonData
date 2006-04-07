@@ -223,6 +223,7 @@
   <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
   <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
   <File name="Geometry/TrackerSimData/data/trackerProdCuts.xml"     url="."/>
+  <File name="Geometry/MuonSimData/data/muonProdCuts.xml"     url="."/>
 
  </Include>
  <Root fileName="cms.xml" logicalPartName="OCMS"/>
