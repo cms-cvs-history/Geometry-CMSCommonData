@@ -1,0 +1,5 @@
+es_source = XMLIdealGeometryESSource
+{
+   FileInPath GeometryConfiguration="Geometry/CMSCommonData/data/configuration_mtcc.xml"
+   string rootNodeName = "cms:OCMS"
+}
