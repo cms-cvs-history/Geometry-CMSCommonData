@@ -1,10 +1,15 @@
 <?xml version="1.0"?>
 <Configuration xmlns="." xmlns:xsi="." xsi:schemaLocation= "." name="CMSConfiguration" version="0">
   <Include name="test">
-  <File name="Geometry/CMSCommonData/data/materials.xml" url="."/>
-  <File name="Geometry/CMSCommonData/data/rotations.xml" url="."/>
-  <File name="Geometry/CMSCommonData/data/cms.xml" url="."/>
+  <File name="Geometry/CMSCommonData/data/materials.xml"            url="."/>
+  <File name="Geometry/CMSCommonData/data/rotations.xml"            url="."/>
+  <File name="Geometry/CMSCommonData/data/cms.xml"                  url="."/>
   <File name="Geometry/TrackerCommonData/data/trackermaterial.xml" url="."/>
+
+  <!-- The following 2 files may not be needed by MTCC. --MEC
+   -->
+  <File name="Geometry/CMSCommonData/data/totem_rotations.xml"      url="."/>
+  <File name="Geometry/CMSCommonData/data/mgnt.xml"                 url="."/>
 
   <!-- needed for production cuts -->
   <File name="Geometry/CMSCommonData/data/beampipe.xml" url="."/>
@@ -101,10 +106,18 @@
   <File name="Geometry/HcalCommonData/data/hcalouteralgo.xml"       url="."/>
   <File name="Geometry/HcalCommonData/data/hcalforwardalgo.xml"     url="."/>
   <File name="Geometry/HcalCommonData/data/hcalforwardmaterial.xml" url="."/>
-  <File name="Geometry/MuonCommonData/data/mbCommon.xml"            url="."/>
 
   <!-- ECAL MTCC -->
   <File name="Geometry/EcalCommonData/data/ecal_MTCC.xml" url="."/>
+
+  <!--  Muon Barrel and endcap, no changes for MTCC -->
+  <File name="Geometry/MuonCommonData/data/mbCommon.xml"            url="."/>
+  <File name="Geometry/MuonCommonData/data/mb1.xml"                 url="."/>
+  <File name="Geometry/MuonCommonData/data/mb2.xml"                 url="."/>
+  <File name="Geometry/MuonCommonData/data/mb3.xml"                 url="."/>
+  <File name="Geometry/MuonCommonData/data/mb4.xml"                 url="."/>
+  <File name="Geometry/MuonCommonData/data/muonYoke.xml"            url="."/> 
+  <File name="Geometry/MuonCommonData/data/mf.xml"                  url="."/>
 
   <!-- Tracker file to define structure -->
   <File name="Geometry/MTCCTrackerCommonData/data/trackerStructureTopology_mtcc.xml" url="."/>
@@ -120,8 +133,29 @@
   <!-- ECAL SpecPar selection to define sensitive volumes -->
   <File name="Geometry/EcalSimData/data/ecalsens_MTCC.xml" url="."/>
 
+  <!-- numbering for all muon DT, RPC and CSC reco and/or sim? -->
+  <File name="Geometry/MuonCommonData/data/muonNumbering.xml"       url="."/>
+
+  <!-- all Muon (CSC, DT, RPC) SpecPars to define sensitive volumes -->
+  <File name="Geometry/MuonSimData/data/muonSens.xml"               url="."/> 
+
+  <!-- DT filter for reconstruction geometry -->
+  <File name="Geometry/DTGeometryBuilder/data/dtSpecsFilter.xml"   url="."/> 
+
+  <!-- CSC filter for reconstruction geometry -->
+  <File name="Geometry/CSCGeometryBuilder/data/cscSpecsFilter.xml"          url="."/>
+
+  <!-- CSC data -->
+  <File name="Geometry/CSCGeometryBuilder/data/cscSpecs.xml"                url="."/>
+
+  <!-- RPC specs -->
+  <File name="Geometry/RPCGeometryBuilder/data/RPCSpecs.xml"          url="."/>
+
   <!-- Production cuts... Simulation only!!! -->
+  <File name="Geometry/HcalSimData/data/HcalProdCuts.xml"           url="."/>
+  <File name="Geometry/EcalSimData/data/EcalProdCuts.xml"           url="."/>
   <File name="Geometry/TrackerSimData/data/trackerProdCuts_mtcc.xml" url="."/> 
+  <File name="Geometry/MuonSimData/data/muonProdCuts.xml"     url="."/>
 
   <!-- Magnetic Field Only!!! -->
   <File name="Geometry/CMSCommonData/data/MagneticFieldVolumes.xml" url="."/>
