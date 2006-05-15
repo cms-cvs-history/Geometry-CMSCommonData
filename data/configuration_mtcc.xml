@@ -6,8 +6,7 @@
   <File name="Geometry/CMSCommonData/data/cms.xml"                  url="."/>
   <File name="Geometry/TrackerCommonData/data/trackermaterial.xml" url="."/>
 
-  <!-- The following 2 files may not be needed by MTCC. --MEC
-   -->
+  <!-- The following 2 files may not be needed by MTCC. -MEC   -->
   <File name="Geometry/CMSCommonData/data/totem_rotations.xml"      url="."/>
   <File name="Geometry/CMSCommonData/data/mgnt.xml"                 url="."/>
 
