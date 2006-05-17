@@ -8,9 +8,10 @@
   <File name="Geometry/CMSCommonData/data/beampipe.xml"             url="."/>
   <File name="Geometry/CMSCommonData/data/mgnt.xml"                 url="."/>
   <!-- BOTH RECO AND SIM SAY THEY DON'T NEED THIS... WHO DOES? -->
-  <!--File name="Geometry/CMSCommonData/data/cavern.xml"               url="."/-->
+  <!--File name="Geometry/CMSCommonData/data/cavern.xml"              url="."/-->
   <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"    url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwd.xml"             url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdCommon.xml"       url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdCylinder.xml"     url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdDisk.xml"         url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdBlade.xml"        url="."/>
