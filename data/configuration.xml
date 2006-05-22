@@ -9,8 +9,13 @@
   <File name="Geometry/CMSCommonData/data/mgnt.xml"                 url="."/>
   <!-- BOTH RECO AND SIM SAY THEY DON'T NEED THIS... WHO DOES? -->
   <!--File name="Geometry/CMSCommonData/data/cavern.xml"              url="."/-->
+<<<<<<< configuration.xml
+  <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"    url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwd.xml"             url="."/>
+=======
   <File name="Geometry/TrackerCommonData/data/pixfwdBlade.xml"        url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdCommon.xml"       url="."/>
+>>>>>>> 1.15
   <File name="Geometry/TrackerCommonData/data/pixfwdCylinder.xml"     url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdDisk.xml"         url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"    url="."/>
@@ -26,6 +31,16 @@
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq2x5.xml"      url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq.xml"         url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwd.xml"             url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarmaterial.xml"   url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarladder.xml"     url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarladderfull.xml" url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarladderhalf.xml" url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarlayer.xml"      url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarlayer0.xml"     url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarlayer1.xml"     url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbarlayer2.xml"     url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixbar.xml"           url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"    url="."/>
   <File name="Geometry/TrackerCommonData/data/pixbarmaterial.xml"   url="."/>
   <File name="Geometry/TrackerCommonData/data/pixbarladder.xml"     url="."/>
   <File name="Geometry/TrackerCommonData/data/pixbarladderfull.xml" url="."/>
