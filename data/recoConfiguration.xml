@@ -8,20 +8,23 @@
   <File name="Geometry/CMSCommonData/data/beampipe.xml"             url="."/>
   <File name="Geometry/CMSCommonData/data/mgnt.xml"                 url="."/>
   <File name="Geometry/CMSCommonData/data/cavern.xml"               url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixfwd.xml"             url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdBlade.xml"        url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdCommon.xml"       url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdCylinder.xml"     url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdDisk.xml"         url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixfwdBlade.xml"        url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixfwdPanel.xml"        url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdMaterials.xml"    url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdNipple.xml"       url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdPanelBase.xml"    url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixfwdplaq.xml"         url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdPanel.xml"        url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Left.xml"  url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Right.xml" url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x5Left.xml"  url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x5Right.xml" url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq2x3.xml"      url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq2x4.xml"      url="."/>
   <File name="Geometry/TrackerCommonData/data/pixfwdplaq2x5.xml"      url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x5Left.xml"  url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x5Right.xml" url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Left.xml"  url="."/>
-  <File name="Geometry/TrackerCommonData/data/pixfwdplaq1x2Right.xml" url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwdplaq.xml"         url="."/>
+  <File name="Geometry/TrackerCommonData/data/pixfwd.xml"             url="."/>
   <File name="Geometry/TrackerCommonData/data/pixbarmaterial.xml"   url="."/>
   <File name="Geometry/TrackerCommonData/data/pixbarladder.xml"     url="."/>
   <File name="Geometry/TrackerCommonData/data/pixbarladderfull.xml" url="."/>
