@@ -4,8 +4,6 @@ es_source magfield = XMLIdealGeometryESSource
    vstring geomXMLFiles = {
       "Geometry/CMSCommonData/data/cms.xml",
       "Geometry/CMSCommonData/data/MagneticFieldVolumes.xml",
-      "Geometry/CMSCommonData/data/FieldParameters.xml"
    }
-
    string rootNodeName="MagneticFieldVolumes:MAGF"
 }
