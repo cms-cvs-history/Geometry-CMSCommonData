@@ -160,6 +160,9 @@ es_source = XMLIdealGeometryESSource
        # Magnetic Field Only!!! 
           "Geometry/CMSCommonData/data/MagneticFieldVolumes.xml",
           "Geometry/CMSCommonData/data/FieldParameters.xml"
+
+          # Needed for magnetic field simulation.
+             "Geometry/CMSCommonData/data/FieldParameters.xml"
    }
 
    string rootNodeName = "cms:OCMS"

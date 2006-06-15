@@ -228,6 +228,8 @@ es_source = XMLIdealGeometryESSource
              "Geometry/TrackerSimData/data/trackerProdCuts.xml",
              "Geometry/MuonSimData/data/muonProdCuts.xml",
 
+          # Needed for magnetic field simulation.
+             "Geometry/CMSCommonData/data/FieldParameters.xml"
    }
    string rootNodeName = "cms:OCMS"
 }
