@@ -5,16 +5,11 @@ es_source = XMLIdealGeometryESSource
           "Geometry/CMSCommonData/data/materials.xml",
           "Geometry/CMSCommonData/data/rotations.xml",
           "Geometry/CMSCommonData/data/cms.xml",
-          "Geometry/TrackerCommonData/data/trackermaterial.xml",
-
-       # The following 2 files may not be needed by MTCC. -MEC   
-          "Geometry/CMSCommonData/data/totem_rotations.xml",
           "Geometry/CMSCommonData/data/mgnt.xml",
 
        # needed for production cuts 
           "Geometry/CMSCommonData/data/beampipe.xml",
 
-          "Geometry/MTCCTrackerCommonData/data/tracker_mtcc.xml",
           "Geometry/TrackerCommonData/data/tibmaterial.xml",
           "Geometry/TrackerCommonData/data/tibmodpar.xml",
           "Geometry/TrackerCommonData/data/tibmodule0.xml",
@@ -98,6 +93,9 @@ es_source = XMLIdealGeometryESSource
        #File name="Geometry/MTCCTrackerCommonData/data/tobsupport_mtcc.xml" url="."/
           "Geometry/MTCCTrackerCommonData/data/tob_mtcc.xml",
 
+          "Geometry/TrackerCommonData/data/trackermaterial.xml",
+          "Geometry/MTCCTrackerCommonData/data/tracker_mtcc.xml",
+
        # HCAL says no change 
           "Geometry/HcalCommonData/data/hcalrotations.xml",
           "Geometry/HcalCommonData/data/hcalalgo.xml",
@@ -159,10 +157,9 @@ es_source = XMLIdealGeometryESSource
 
        # Magnetic Field Only!!! 
           "Geometry/CMSCommonData/data/MagneticFieldVolumes.xml",
-          "Geometry/CMSCommonData/data/FieldParameters.xml"
 
-          # Needed for magnetic field simulation.
-             "Geometry/CMSCommonData/data/FieldParameters.xml"
+        # Needed for magnetic field simulation.
+          "Geometry/CMSCommonData/data/FieldParameters.xml"
    }
 
    string rootNodeName = "cms:OCMS"

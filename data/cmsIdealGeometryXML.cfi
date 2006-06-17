@@ -231,7 +231,7 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/HcalSimData/data/HcalProdCuts.xml",
                 "Geometry/EcalSimData/data/EcalProdCuts.xml",
                 "Geometry/TrackerSimData/data/trackerProdCuts.xml",
-                "Geometry/MuonSimData/data/muonProdCuts.xml"
+                "Geometry/MuonSimData/data/muonProdCuts.xml",
 
           # Needed for magnetic field simulation.
              "Geometry/CMSCommonData/data/FieldParameters.xml"
