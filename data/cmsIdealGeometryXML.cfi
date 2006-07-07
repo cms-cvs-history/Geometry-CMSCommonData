@@ -198,6 +198,9 @@ es_source = XMLIdealGeometryESSource
                 # Tracker SpecPar selection to define sensitive volumes 
                 "Geometry/TrackerSimData/data/trackersens.xml", 
 
+                # Tracker file to define amount of material ... is this for reco only
+                "Geometry/TrackerRecoData/data/trackerRecoMaterial.xml",           
+
                 # ECAL SpecPar selection to define sensitive volumes 
                 "Geometry/EcalSimData/data/ecalsens.xml", 
 
