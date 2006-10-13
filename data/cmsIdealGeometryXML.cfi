@@ -1,7 +1,8 @@
+
+es_module = MuonNumberingInitialization { }
+
 es_source = XMLIdealGeometryESSource
 {
-#   FileInPath GeometryConfiguration="Geometry/CMSCommonData/data/configuration.xml"
-
    vstring geomXMLFiles = {
                 "Geometry/CMSCommonData/data/materials.xml",
                 "Geometry/CMSCommonData/data/rotations.xml",
@@ -242,3 +243,4 @@ es_source = XMLIdealGeometryESSource
    }
    string rootNodeName = "cms:OCMS"
 }
+
