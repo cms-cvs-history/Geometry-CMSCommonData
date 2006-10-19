@@ -1,3 +1,5 @@
+es_module = MuonNumberingInitialization { }
+
 es_source = XMLIdealGeometryESSource
 {
 #   FileInPath GeometryConfiguration="Geometry/CMSCommonData/data/recoConfiguration.xml"
