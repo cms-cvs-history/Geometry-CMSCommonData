@@ -1,6 +1,5 @@
-es_source magfield = XMLIdealGeometryESSource 
+es_source = XMLIdealGeometryESSource 
 {
-#   FileInPath GeometryConfiguration ="Geometry/CMSCommonData/data/FieldConfiguration.xml"
    vstring geomXMLFiles = {
       "Geometry/CMSCommonData/data/cms.xml",
       "Geometry/CMSCommonData/data/cmsMagneticField.xml",

@@ -1,22 +1,15 @@
-es_module = MuonNumberingInitialization { }
-
 es_source = XMLIdealGeometryESSource
 {
 
    vstring geomXMLFiles = {
                 "Geometry/CMSCommonData/data/materials.xml",
                 "Geometry/CMSCommonData/data/rotations.xml",
-                "Geometry/CMSCommonData/data/totem_rotations.xml",
                 "Geometry/CMSCommonData/data/cms.xml",
                 "Geometry/CMSCommonData/data/muonBase.xml",
                 "Geometry/CMSCommonData/data/cmsMuonMagnetBeam.xml",
-                "Geometry/CMSCommonData/data/caloBase.xml",
-                "Geometry/CMSCommonData/data/cmsCalo.xml",
-                "Geometry/CMSCommonData/data/cmsTracker.xml",
-                "Geometry/CMSCommonData/data/mgnt.xml",
+		"Geometry/CMSCommonData/data/cmsTracker.xml",
                 "Geometry/CMSCommonData/data/beampipe.xml",
-                # BOTH RECO AND SIM SAY THEY DON'T NEED THIS... WHO DOES? 
-                #  "Geometry/CMSCommonData/data/cavern.xml",
+                "Geometry/CMSCommonData/data/mgnt.xml",
 		"Geometry/TrackerCommonData/data/pixfwdMaterials.xml",
 		"Geometry/TrackerCommonData/data/pixfwdCommon.xml",
 		"Geometry/TrackerCommonData/data/pixfwdPlaq.xml",
@@ -179,24 +172,6 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/TrackerCommonData/data/tec.xml",
                 "Geometry/TrackerCommonData/data/trackermaterial.xml",
                 "Geometry/TrackerCommonData/data/tracker.xml",
-                "Geometry/EcalCommonData/data/ecal.xml",
-                "Geometry/HcalCommonData/data/hcalrotations.xml",
-                "Geometry/HcalCommonData/data/hcalalgo.xml",
-                "Geometry/HcalCommonData/data/hcalbarrelalgo.xml",
-                "Geometry/HcalCommonData/data/hcalendcapalgo.xml",
-                "Geometry/HcalCommonData/data/hcalouteralgo.xml",
-                "Geometry/HcalCommonData/data/hcalforwardalgo.xml",
-                "Geometry/HcalCommonData/data/hcalforwardmaterial.xml",
-                "Geometry/MuonCommonData/data/mbCommon.xml",
-                "Geometry/MuonCommonData/data/mb1.xml",
-                "Geometry/MuonCommonData/data/mb2.xml",
-                "Geometry/MuonCommonData/data/mb3.xml",
-                "Geometry/MuonCommonData/data/mb4.xml",
-                "Geometry/MuonCommonData/data/muonYoke.xml", 
-                "Geometry/MuonCommonData/data/mf.xml",
-
-                # numbering for all muon DT, RPC and CSC reco and/or sim? 
-                "Geometry/MuonCommonData/data/muonNumbering.xml",
 
                 # Tracker file to define structure ... is this for reco and/or sim only? 
                 "Geometry/TrackerCommonData/data/trackerStructureTopology.xml",
@@ -207,43 +182,8 @@ es_source = XMLIdealGeometryESSource
                 # Tracker file to define amount of material ... is this for reco only
                 "Geometry/TrackerRecoData/data/trackerRecoMaterial.xml",           
 
-                # ECAL SpecPar selection to define sensitive volumes 
-                "Geometry/EcalSimData/data/ecalsens.xml", 
-
-                # HCAL SpecPar selection to define sensitive volumes 
-                "Geometry/HcalCommonData/data/hcalsens.xml", 
-
-                # Calo ... ??? Sim? Reco? both? 
-                "Geometry/HcalSimData/data/CaloUtil.xml",
-
-                # all Muon (CSC, DT, RPC) SpecPars to define sensitive volumes 
-                "Geometry/MuonSimData/data/muonSens.xml", 
-
-                # DT filter for reconstruction geometry 
-                "Geometry/DTGeometryBuilder/data/dtSpecsFilter.xml", 
-
-                # CSC filter for reconstruction geometry 
-                "Geometry/CSCGeometryBuilder/data/cscSpecsFilter.xml",
-
-                # CSC data 
-                "Geometry/CSCGeometryBuilder/data/cscSpecs.xml",
-
-                # RPC specs 
-                "Geometry/RPCGeometryBuilder/data/RPCSpecs.xml",
-
-                # Magnetic Field Only!!! 
-                "Geometry/CMSCommonData/data/cmsMagneticField.xml",
-                "Geometry/CMSCommonData/data/MagneticFieldVolumes.xml",
-
-                # Production cuts... Simulation only!!! 
-                "Geometry/HcalSimData/data/HcalProdCuts.xml",
-                "Geometry/EcalSimData/data/EcalProdCuts.xml",
                 "Geometry/TrackerSimData/data/trackerProdCuts.xml",
-                "Geometry/TrackerSimData/data/trackerProdCutsBEAM.xml",
-                "Geometry/MuonSimData/data/muonProdCuts.xml",
-
-                # Needed for magnetic field simulation.
-                "Geometry/CMSCommonData/data/FieldParameters.xml"
+                "Geometry/TrackerSimData/data/trackerProdCutsBEAM.xml"
 
    }
    string rootNodeName = "cms:OCMS"

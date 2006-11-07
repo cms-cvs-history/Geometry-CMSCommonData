@@ -277,10 +277,12 @@
 </SolidSection> 
 
 <LogicalPartSection label="magn_field_volumes.xml"> 
+
  <LogicalPart name="MAGF" category="unspecified"> 
   <rSolid name="MAGF"/> 
   <rMaterial name="materials:Air"/> 
  </LogicalPart>
+
  <LogicalPart name="V_ZP_1" category="unspecified"> 
   <rSolid name="V_1"/> 
   <rMaterial name="materials:Air"/> 
@@ -2452,11 +2454,6 @@
 </LogicalPartSection> 
 
 <PosPartSection label="magn_field_volumes.xml">
- <PosPart copyNumber="1">
-   <rParent name="cms:MCMS"/>
-   <rChild name="MAGF"/>
-  <rRotation name="rotations:000D"/>
- </PosPart>
  <AlgoPosPart algo="global:angular">
   <rParent name="MAGF"/>
   <rChild name="V_ZP_1"/>

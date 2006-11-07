@@ -2,13 +2,18 @@ es_module = MuonNumberingInitialization { }
 
 es_source = XMLIdealGeometryESSource
 {
-#   FileInPath GeometryConfiguration="Geometry/CMSCommonData/data/configuration.xml"
 
    vstring geomXMLFiles = {
              "Geometry/CMSCommonData/data/materials.xml",
              "Geometry/CMSCommonData/data/rotations.xml",
              "Geometry/CMSCommonData/data/totem_rotations.xml",
              "Geometry/CMSCommonData/data/cms.xml",
+             "Geometry/CMSCommonData/data/cms.xml",
+             "Geometry/CMSCommonData/data/cmsCalo.xml",
+             "Geometry/CMSCommonData/data/cmsTracker.xml",
+             "Geometry/CMSCommonData/data/muonBase.xml",
+             "Geometry/CMSCommonData/data/caloBase.xml",
+             "Geometry/CMSCommonData/data/cmsMuonMagnetBeam.xml",
              "Geometry/CMSCommonData/data/beampipe.xml",
              "Geometry/CMSCommonData/data/mgnt.xml",
           # File name="Geometry/CMSCommonData/data/cavern.xml",
@@ -228,6 +233,7 @@ es_source = XMLIdealGeometryESSource
              "Geometry/HcalSimData/data/HcalProdCuts.xml",
              "Geometry/EcalSimData/data/EBProdCuts.xml",
              "Geometry/TrackerSimData/data/trackerProdCuts.xml",
+             "Geometry/TrackerSimData/data/trackerProdCutsBEAM.xml",
              "Geometry/MuonSimData/data/muonProdCuts.xml",
 
           # Needed for magnetic field simulation.

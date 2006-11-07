@@ -1,0 +1,8 @@
+	es_source magfield = DBIdealGeometryESSource {
+		string dbMetaName= "MagField01"                 # label for IOV to use.
+		string dbConn="sqlite_file:test.db" # connection string only needed for name-to-token.
+		string dbUser="mcase"                          # should be optional, then check if needed by dbConn
+		string dbPass="neneng"                         # "ditto"
+		string rootNodeName="MagneticFieldVolumes:MAGF" # empty string defaults to Top Node of DDD
+        }
+

@@ -1,5 +1,3 @@
-es_module = MuonNumberingInitialization { }
-
 es_source = XMLIdealGeometryESSource
 {
 
@@ -8,13 +6,13 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/CMSCommonData/data/rotations.xml",
                 "Geometry/CMSCommonData/data/totem_rotations.xml",
                 "Geometry/CMSCommonData/data/cms.xml",
-                "Geometry/CMSCommonData/data/muonBase.xml",
-                "Geometry/CMSCommonData/data/cmsMuonMagnetBeam.xml",
-                "Geometry/CMSCommonData/data/caloBase.xml",
                 "Geometry/CMSCommonData/data/cmsCalo.xml",
                 "Geometry/CMSCommonData/data/cmsTracker.xml",
-                "Geometry/CMSCommonData/data/mgnt.xml",
+                "Geometry/CMSCommonData/data/muonBase.xml",
+                "Geometry/CMSCommonData/data/caloBase.xml",
+                "Geometry/CMSCommonData/data/cmsMuonMagnetBeam.xml",
                 "Geometry/CMSCommonData/data/beampipe.xml",
+                "Geometry/CMSCommonData/data/mgnt.xml",
                 # BOTH RECO AND SIM SAY THEY DON'T NEED THIS... WHO DOES? 
                 #  "Geometry/CMSCommonData/data/cavern.xml",
 		"Geometry/TrackerCommonData/data/pixfwdMaterials.xml",
@@ -230,10 +228,6 @@ es_source = XMLIdealGeometryESSource
 
                 # RPC specs 
                 "Geometry/RPCGeometryBuilder/data/RPCSpecs.xml",
-
-                # Magnetic Field Only!!! 
-                "Geometry/CMSCommonData/data/cmsMagneticField.xml",
-                "Geometry/CMSCommonData/data/MagneticFieldVolumes.xml",
 
                 # Production cuts... Simulation only!!! 
                 "Geometry/HcalSimData/data/HcalProdCuts.xml",
