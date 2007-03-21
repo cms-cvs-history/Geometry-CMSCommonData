@@ -49,6 +49,7 @@ es_source = XMLIdealGeometryESSource
           "Geometry/TrackerCommonData/data/tecmodpar.xml",
           "Geometry/TrackerCommonData/data/tecmodule3.xml",
           "Geometry/TrackerCommonData/data/tecmodule4.xml",
+          "Geometry/TrackerCommonData/data/tecmodule4s.xml",
           "Geometry/TrackerCommonData/data/tecmodule5.xml",
           "Geometry/TrackerCommonData/data/tecmodule6.xml",
           "Geometry/TrackerCommonData/data/tecring3.xml",
