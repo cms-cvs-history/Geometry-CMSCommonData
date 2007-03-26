@@ -8,7 +8,9 @@
  <TruncTubs name="V_3" rMin="3.47833*m" rMax="3.83104*m" cutAtStart="3.65554*m" cutAtDelta="3.83104*m" startPhi="0*deg" deltaPhi="30*deg" zHalf="3.30505*m"/>
  <PseudoTrap name="V_4" dx1="1.94129*m" dx2="2.58819*m" dy1="3.30505*m" dy2="3.30505*m" dz="1.20713*m" radius="10*m" atMinusZ="false"/>
  <Cone name="V_5" dz="0.245*m" rMin1="0*m" rMax1="0.9241*m" rMin2="0*m" rMax2="0.8899*m" startPhi="75*deg" deltaPhi="30*deg"/>
+ <Cone name="V_5N" dz="0.245*m" rMin1="0*m" rMax1="0.8899*m" rMin2="0*m" rMax2="0.9241*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Cone name="V_6" dz="0.245*m" rMin1="0.9243*m" rMax1="2.6299*m" rMin2="0.8901*m" rMax2="2.6299*m" startPhi="75*deg" deltaPhi="30*deg"/>
+ <Cone name="V_6N" dz="0.245*m" rMin1="0.8901*m" rMax1="2.6299*m" rMin2="0.9243*m" rMax2="2.6299*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Tubs name="V_7" rMin="2.6301*m" rMax="3.08755*m" dz="0.1326*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Tubs name="V_8" rMin="0*m" rMax="0.7249*m" dz="0.0501*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Tubs name="V_9" rMin="0.7251*m" rMax="2.6299*m" dz="0.0499*m" startPhi="75*deg" deltaPhi="30*deg"/>
@@ -58,7 +60,9 @@
  <Tubs name="V_53" rMin="0.1301*m" rMax="0.3999*m" dz="0.075*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Tubs name="V_54" rMin="0.4001*m" rMax="1.4499*m" dz="0.075*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Cone name="V_55" dz="0.14435*m" rMin1="0.4001*m" rMax1="1.01975*m" rMin2="0.9001*m" rMax2="1.01975*m" startPhi="75*deg" deltaPhi="30*deg"/>
+ <Cone name="V_55N" dz="0.14435*m" rMin1="0.9001*m" rMax1="1.01975*m" rMin2="0.4001*m" rMax2="1.01975*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Cone name="V_56" dz="0.14435*m" rMin1="0.1301*m" rMax1="0.3999*m" rMin2="0.1301*m" rMax2="0.8999*m" startPhi="75*deg" deltaPhi="30*deg"/>
+ <Cone name="V_56N" dz="0.14435*m" rMin1="0.1301*m" rMax1="0.8999*m" rMin2="0.1301*m" rMax2="0.3999*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Tubs name="V_57" rMin="0.1301*m" rMax="0.8999*m" dz="0.08055*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Tubs name="V_58" rMin="0.9001*m" rMax="1.0199*m" dz="0.08075*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Tubs name="V_59" rMin="1.0199*m" rMax="1.4499*m" dz="0.1*m" startPhi="75*deg" deltaPhi="30*deg"/>
@@ -320,7 +324,7 @@
   <rMaterial name="materials:Air"/> 
  </LogicalPart>
  <LogicalPart name="V_ZN_5" category="unspecified"> 
-  <rSolid name="V_5"/> 
+  <rSolid name="V_5N"/> 
   <rMaterial name="materials:Air"/> 
  </LogicalPart>
  <LogicalPart name="V_ZP_6" category="unspecified"> 
@@ -328,7 +332,7 @@
   <rMaterial name="materials:Iron"/> 
  </LogicalPart>
  <LogicalPart name="V_ZN_6" category="unspecified"> 
-  <rSolid name="V_6"/> 
+  <rSolid name="V_6N"/> 
   <rMaterial name="materials:Iron"/> 
  </LogicalPart>
  <LogicalPart name="V_ZP_7" category="unspecified"> 
@@ -720,7 +724,7 @@
   <rMaterial name="materials:Air"/> 
  </LogicalPart>
  <LogicalPart name="V_ZN_55" category="unspecified"> 
-  <rSolid name="V_55"/> 
+  <rSolid name="V_55N"/> 
   <rMaterial name="materials:Air"/> 
  </LogicalPart>
  <LogicalPart name="V_ZP_56" category="unspecified"> 
@@ -728,7 +732,7 @@
   <rMaterial name="materials:Iron"/> 
  </LogicalPart>
  <LogicalPart name="V_ZN_56" category="unspecified"> 
-  <rSolid name="V_56"/> 
+  <rSolid name="V_56N"/> 
   <rMaterial name="materials:Iron"/> 
  </LogicalPart>
  <LogicalPart name="V_ZP_57" category="unspecified"> 
