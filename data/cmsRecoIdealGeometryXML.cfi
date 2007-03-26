@@ -1,4 +1,3 @@
-es_module = MuonNumberingInitialization { }
 
 es_source = XMLIdealGeometryESSource
 {
