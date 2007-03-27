@@ -172,6 +172,13 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/TrackerCommonData/data/tec.xml",
                 "Geometry/TrackerCommonData/data/trackermaterial.xml",
                 "Geometry/TrackerCommonData/data/tracker.xml",
+                "Geometry/TrackerCommonData/data/trackerpixbar.xml",
+                "Geometry/TrackerCommonData/data/trackerpixfwd.xml",
+                "Geometry/TrackerCommonData/data/trackertib.xml",
+                "Geometry/TrackerCommonData/data/trackertid.xml",
+                "Geometry/TrackerCommonData/data/trackertob.xml",
+                "Geometry/TrackerCommonData/data/trackertec.xml",
+                "Geometry/TrackerCommonData/data/trackerother.xml",
 
                 # Tracker file to define structure ... is this for reco and/or sim only? 
                 "Geometry/TrackerCommonData/data/trackerStructureTopology.xml",
