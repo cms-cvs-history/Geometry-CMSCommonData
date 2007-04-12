@@ -1,0 +1,18 @@
+es_source = PoolDBESSource {
+	VPSet toGet = {
+		{ 
+			string record = "IdealGeometryRecord"
+                	string tag = "IdealGeometry01"
+		}
+
+	}
+	bool loadAll = true
+	string connect = "sqlite_file:testIdeal.db"
+	string timetype = "runnumber" 
+	untracked string catalog = "file:PoolFileCatalog.xml"
+	PSet DBParameters = {
+		untracked string authenticationPath="."
+		untracked int32 messageLevel=0
+	}
+}
+
