@@ -43,11 +43,11 @@ es_source = XMLIdealGeometryESSource
           "Geometry/MTCCTrackerCommonData/data/tiblayer1_mtcc.xml",
           "Geometry/MTCCTrackerCommonData/data/tiblayer2_mtcc.xml",
           "Geometry/MTCCTrackerCommonData/data/tib_mtcc.xml",
-
           "Geometry/TrackerCommonData/data/tecmaterial.xml",
           "Geometry/TrackerCommonData/data/tecmodpar.xml",
           "Geometry/TrackerCommonData/data/tecmodule3.xml",
           "Geometry/TrackerCommonData/data/tecmodule4.xml",
+          "Geometry/TrackerCommonData/data/tecmodule4r.xml",
           "Geometry/TrackerCommonData/data/tecmodule4s.xml",
           "Geometry/TrackerCommonData/data/tecmodule5.xml",
           "Geometry/TrackerCommonData/data/tecmodule6.xml",
@@ -73,7 +73,6 @@ es_source = XMLIdealGeometryESSource
           "Geometry/MTCCTrackerCommonData/data/tecwheeld_mtcc.xml",
           "Geometry/MTCCTrackerCommonData/data/tecsupport_mtcc.xml",
           "Geometry/MTCCTrackerCommonData/data/tec_mtcc.xml",
-
           "Geometry/TrackerCommonData/data/tobmaterial.xml",
           "Geometry/TrackerCommonData/data/tobmodpar.xml",
           "Geometry/TrackerCommonData/data/tobmodule0.xml",
