@@ -17,6 +17,7 @@ es_source = XMLIdealGeometryESSource
           "Geometry/CMSCommonData/data/cmsBeam.xml",
           "Geometry/CMSCommonData/data/muonMB.xml",
           "Geometry/CMSCommonData/data/muonMagnet.xml",
+          "Geometry/TrackerCommonData/data/tibtidcommonmaterial.xml",
           "Geometry/TrackerCommonData/data/tibmaterial.xml",
           "Geometry/TrackerCommonData/data/tibmodpar.xml",
           "Geometry/TrackerCommonData/data/tibmodule0.xml",
