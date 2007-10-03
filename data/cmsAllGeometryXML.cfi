@@ -4,7 +4,7 @@ es_source = XMLIdealGeometryESSource
    vstring geomXMLFiles = {
                 "Geometry/CMSCommonData/data/materials.xml",
                 "Geometry/CMSCommonData/data/rotations.xml",
-                "Geometry/CMSCommonData/data/totem_rotations.xml",
+                "Geometry/CMSCommonData/data/extend/cmsextent.xml",
                 "Geometry/CMSCommonData/data/cms.xml",
                 "Geometry/CMSCommonData/data/cmsMother.xml",
                 "Geometry/CMSCommonData/data/cmsTracker.xml",
@@ -222,6 +222,7 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/ForwardCommonData/data/forward.xml",
                 "Geometry/ForwardCommonData/data/forwardshield.xml",
                 "Geometry/ForwardCommonData/data/castor.xml",
+                "Geometry/ForwardCommonData/data/totemMaterials.xml",
                 "Geometry/ForwardCommonData/data/totemRotations.xml",
                 "Geometry/ForwardCommonData/data/totemt1.xml",
                 "Geometry/ForwardCommonData/data/totemt2.xml",
@@ -263,6 +264,11 @@ es_source = XMLIdealGeometryESSource
                 # RPC specs 
                 "Geometry/RPCGeometryBuilder/data/RPCSpecs.xml",
 
+                # Totem, Castor
+                "Geometry/ForwardSimData/data/totemsensT1.xml",
+                "Geometry/ForwardSimData/data/totemsensT2.xml",
+                "Geometry/ForwardSimData/data/castorsens.xml",
+
                 # Magnetic Field Only!!! 
                 "Geometry/CMSCommonData/data/cmsMagneticField.xml",
                 "Geometry/CMSCommonData/data/MagneticFieldVolumes.xml",
@@ -273,6 +279,7 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/TrackerSimData/data/trackerProdCuts.xml",
                 "Geometry/TrackerSimData/data/trackerProdCutsBEAM.xml",
                 "Geometry/MuonSimData/data/muonProdCuts.xml",
+                "Geometry/ForwardSimData/data/CastorProdCuts.xml",
 
                 # Needed for magnetic field simulation.
                 "Geometry/CMSCommonData/data/FieldParameters.xml"
