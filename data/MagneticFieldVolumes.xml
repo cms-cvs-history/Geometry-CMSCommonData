@@ -5,7 +5,7 @@
  <Tubs name="MAGF" rMin="0*m" rMax="10*m" dz="18*m" startPhi="0*deg" deltaPhi="360*deg"/>
  <Tubs name="V_1" rMin="0*m" rMax="3.08755*m" dz="3.17245*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Tubs name="V_2" rMin="3.08755*m" rMax="3.47833*m" dz="3.30505*m" startPhi="75*deg" deltaPhi="30*deg"/>
- <TruncTubs name="V_3" rMin="3.47833*m" rMax="3.83104*m" cutAtStart="3.65554*m" cutAtDelta="3.83104*m" startPhi="0*deg" deltaPhi="30*deg" zHalf="3.30505*m"/cutInside="false">
+ <TruncTubs name="V_3" rMin="3.47833*m" rMax="3.83104*m" cutAtStart="3.65554*m" cutAtDelta="3.83104*m" startPhi="0*deg" deltaPhi="30*deg" zHalf="3.30505*m" cutInside="false"/>
  <PseudoTrap name="V_4" dx1="1.94129*m" dx2="2.58819*m" dy1="3.30505*m" dy2="3.30505*m" dz="1.20713*m" radius="10*m" atMinusZ="false"/>
  <Cone name="V_5" dz="0.245*m" rMin1="0*m" rMax1="0.9241*m" rMin2="0*m" rMax2="0.8899*m" startPhi="75*deg" deltaPhi="30*deg"/>
  <Cone name="V_5N" dz="0.245*m" rMin1="0*m" rMax1="0.8899*m" rMin2="0*m" rMax2="0.9241*m" startPhi="75*deg" deltaPhi="30*deg"/>
