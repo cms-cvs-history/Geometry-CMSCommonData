@@ -229,6 +229,18 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/ForwardCommonData/data/totemt1.xml",
                 "Geometry/ForwardCommonData/data/totemt2.xml",
                 "Geometry/ForwardCommonData/data/ionpump.xml",
+                "Geometry/ForwardCommonData/data/zdcmaterials.xml",
+                "Geometry/ForwardCommonData/data/lumimaterials.xml",
+                "Geometry/ForwardCommonData/data/zdcrotations.xml",
+                "Geometry/ForwardCommonData/data/lumirotations.xml",
+                "Geometry/ForwardCommonData/data/zdc.xml",
+                "Geometry/ForwardCommonData/data/zdclumi.xml",
+                "Geometry/ForwardCommonData/data/cmszdc.xml",
+                "Geometry/FP420CommonData/data/fp420.xml",
+                "Geometry/FP420CommonData/data/zzzrectangle.xml",
+                "Geometry/FP420CommonData/data/materialsfp420.xml",
+                "Geometry/FP420CommonData/data/FP420Rot.xml",
+                "Geometry/FP420CommonData/data/cmsfp420.xml",
 
                 # numbering for all muon DT, RPC and CSC reco and/or sim? 
                 "Geometry/MuonCommonData/data/muonNumbering.xml",
@@ -270,6 +282,8 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/ForwardSimData/data/totemsensT1.xml",
                 "Geometry/ForwardSimData/data/totemsensT2.xml",
                 "Geometry/ForwardSimData/data/castorsens.xml",
+                "Geometry/ForwardSimData/data/zdcsens.xml",
+                "Geometry/FP420SimData/data/fp420sens.xml",
 
                 # Magnetic Field Only!!! 
                 "Geometry/CMSCommonData/data/cmsMagneticField.xml",
@@ -282,6 +296,8 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/TrackerSimData/data/trackerProdCutsBEAM.xml",
                 "Geometry/MuonSimData/data/muonProdCuts.xml",
                 "Geometry/ForwardSimData/data/CastorProdCuts.xml",
+                "Geometry/ForwardSimData/data/zdcProdCuts.xml",
+                "Geometry/FP420SimData/data/FP420ProdCuts.xml",
 
                 # Needed for magnetic field simulation.
                 "Geometry/CMSCommonData/data/FieldParameters.xml"
