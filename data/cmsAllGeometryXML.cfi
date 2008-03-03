@@ -224,6 +224,8 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/ForwardCommonData/data/forward.xml",
                 "Geometry/ForwardCommonData/data/forwardshield.xml",
                 "Geometry/ForwardCommonData/data/castor.xml",
+                "Geometry/ForwardCommonData/data/brmrotations.xml",
+                "Geometry/ForwardCommonData/data/brm.xml",
                 "Geometry/ForwardCommonData/data/totemMaterials.xml",
                 "Geometry/ForwardCommonData/data/totemRotations.xml",
                 "Geometry/ForwardCommonData/data/totemt1.xml",
@@ -279,6 +281,7 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/RPCGeometryBuilder/data/RPCSpecs.xml",
 
                 # Totem, Castor
+                "Geometry/ForwardCommonData/data/brmsens.xml",
                 "Geometry/ForwardSimData/data/totemsensT1.xml",
                 "Geometry/ForwardSimData/data/totemsensT2.xml",
                 "Geometry/ForwardSimData/data/castorsens.xml",
