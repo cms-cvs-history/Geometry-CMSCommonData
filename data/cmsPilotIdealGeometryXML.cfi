@@ -207,6 +207,7 @@ es_source = XMLIdealGeometryESSource
              "Geometry/EcalCommonData/data/eealgo.xml",
              "Geometry/EcalCommonData/data/escon.xml",
              "Geometry/EcalCommonData/data/esalgo.xml",
+             "Geometry/EcalCommonData/data/eeF.xml",
              "Geometry/HcalCommonData/data/hcalrotations.xml",
              "Geometry/HcalCommonData/data/hcalalgo.xml",
              "Geometry/HcalCommonData/data/hcalbarrelalgo.xml",
