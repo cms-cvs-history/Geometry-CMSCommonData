@@ -270,9 +270,7 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/RPCGeometryBuilder/data/RPCSpecs.xml",
 
                 # Forward detectors
-                "Geometry/ForwardCommonData/data/brmsens.xml",
-                "Geometry/ForwardSimData/data/totemsensT1.xml",
-                "Geometry/ForwardSimData/data/totemsensT2.xml"
+                "Geometry/ForwardCommonData/data/brmsens.xml"
 
    }
    string rootNodeName = "cms:OCMS"

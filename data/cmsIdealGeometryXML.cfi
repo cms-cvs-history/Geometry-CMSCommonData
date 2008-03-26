@@ -271,8 +271,6 @@ es_source = XMLIdealGeometryESSource
 
                 # Forward detectors
                 "Geometry/ForwardCommonData/data/brmsens.xml",
-                "Geometry/ForwardSimData/data/totemsensT1.xml",
-                "Geometry/ForwardSimData/data/totemsensT2.xml",
 
                 # Magnetic Field Only!!! 
                 "Geometry/CMSCommonData/data/cmsMagneticField.xml",
