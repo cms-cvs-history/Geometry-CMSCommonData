@@ -291,10 +291,6 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/ForwardSimData/data/zdcsens.xml",
                 "Geometry/FP420SimData/data/fp420sens.xml",
 
-                # Magnetic Field Only!!! 
-                "Geometry/CMSCommonData/data/cmsMagneticField.xml",
-                "Geometry/CMSCommonData/data/MagneticFieldVolumes.xml",
-
                 # Production cuts... Simulation only!!! 
                 "Geometry/HcalSimData/data/HcalProdCuts.xml",
                 "Geometry/EcalSimData/data/EcalProdCuts.xml",

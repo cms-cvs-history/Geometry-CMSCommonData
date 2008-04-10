@@ -272,10 +272,6 @@ es_source = XMLIdealGeometryESSource
                 # Forward detectors
                 "Geometry/ForwardCommonData/data/brmsens.xml",
 
-                # Magnetic Field Only!!! 
-                "Geometry/CMSCommonData/data/cmsMagneticField.xml",
-                "Geometry/CMSCommonData/data/MagneticFieldVolumes.xml",
-
                 # Production cuts... Simulation only!!! 
                 "Geometry/HcalSimData/data/HcalProdCuts.xml",
                 "Geometry/EcalSimData/data/EcalProdCuts.xml",
