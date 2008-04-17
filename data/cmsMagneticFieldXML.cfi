@@ -1,11 +1,3 @@
-es_source magfield = XMLIdealGeometryESSource 
-{
-#   FileInPath GeometryConfiguration ="Geometry/CMSCommonData/data/FieldConfiguration.xml"
-   vstring geomXMLFiles = {
-      "Geometry/CMSCommonData/data/normal/cmsextent.xml",
-      "Geometry/CMSCommonData/data/cms.xml",
-      "Geometry/CMSCommonData/data/cmsMagneticField.xml",
-      "Geometry/CMSCommonData/data/MagneticFieldVolumes.xml"
-   }
-   string rootNodeName="MagneticFieldVolumes:MAGF"
-}
+#Temporary workaround, should be removed!
+
+include "MagneticField/Engine/data/volumeBasedMagneticField_85l.cfi"
