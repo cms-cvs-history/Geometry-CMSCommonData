@@ -231,7 +231,6 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/ForwardCommonData/data/totemMaterials.xml",
                 "Geometry/ForwardCommonData/data/totemRotations.xml",
                 "Geometry/ForwardCommonData/data/totemt1.xml",
-                "Geometry/ForwardCommonData/data/totemt2.xml",
                 "Geometry/ForwardCommonData/data/ionpump.xml",
                 "Geometry/ForwardCommonData/data/castor.xml",
                 "Geometry/ForwardCommonData/data/zdcmaterials.xml",
@@ -286,7 +285,6 @@ es_source = XMLIdealGeometryESSource
                 # Forward detectors
                 "Geometry/ForwardCommonData/data/brmsens.xml",
                 "Geometry/ForwardSimData/data/totemsensT1.xml",
-                "Geometry/ForwardSimData/data/totemsensT2.xml",
                 "Geometry/ForwardSimData/data/castorsens.xml",
                 "Geometry/ForwardSimData/data/zdcsens.xml",
                 "Geometry/FP420SimData/data/fp420sens.xml",
