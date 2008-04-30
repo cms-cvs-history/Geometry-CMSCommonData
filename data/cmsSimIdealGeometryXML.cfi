@@ -277,8 +277,7 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/EcalSimData/data/EcalProdCuts.xml",
                 "Geometry/TrackerSimData/data/trackerProdCuts.xml",
                 "Geometry/TrackerSimData/data/trackerProdCutsBEAM.xml",
-                "Geometry/MuonSimData/data/muonProdCuts.xml",
-                "Geometry/ForwardSimData/data/TotemProdCuts.xml"
+                "Geometry/MuonSimData/data/muonProdCuts.xml"
 
    }
    string rootNodeName = "cms:OCMS"
