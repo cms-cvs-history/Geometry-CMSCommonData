@@ -243,7 +243,7 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/TrackerSimData/data/trackersens.xml", 
 
                 # Tracker file to define amount of material ... is this for reco only
-                "Geometry/TrackerRecoData/data/trackerRecoMaterial.xml",           
+                "Geometry/TrackerRecoData/data/trackerRecoMaterial.xml",
 
                 # ECAL SpecPar selection to define sensitive volumes 
                 "Geometry/EcalSimData/data/ecalsens.xml", 
@@ -281,7 +281,6 @@ es_source = XMLIdealGeometryESSource
 
                 # Needed for magnetic field simulation.
                 "Geometry/CMSCommonData/data/FieldParameters.xml"
-
    }
    string rootNodeName = "cms:OCMS"
 }
