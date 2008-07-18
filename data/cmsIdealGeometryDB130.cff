@@ -1,2 +1,0 @@
-include "Geometry/CMSCommonData/data/cmsIdealGeometryDB130.cfi"
-include "Geometry/MuonNumbering/data/muonNumberingInitialization.cfi"
