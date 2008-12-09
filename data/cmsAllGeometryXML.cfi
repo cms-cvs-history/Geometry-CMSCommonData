@@ -292,6 +292,7 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/FP420SimData/data/fp420sens.xml",
 
                 # Production cuts... Simulation only!!! 
+                "Geometry/HcalSimData/data/CaloProdCuts.xml",
                 "Geometry/HcalSimData/data/HcalProdCuts.xml",
                 "Geometry/EcalSimData/data/EcalProdCuts.xml",
                 "Geometry/TrackerSimData/data/trackerProdCuts.xml",

@@ -273,6 +273,7 @@ es_source = XMLIdealGeometryESSource
                 "Geometry/ForwardCommonData/data/brmsens.xml",
 
                 # Production cuts... Simulation only!!! 
+                "Geometry/HcalSimData/data/CaloProdCuts.xml",
                 "Geometry/HcalSimData/data/HcalProdCuts.xml",
                 "Geometry/EcalSimData/data/EBProdCuts.xml",
                 "Geometry/TrackerSimData/data/trackerProdCuts.xml",
