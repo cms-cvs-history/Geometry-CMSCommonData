@@ -1,2 +1,0 @@
-include "Geometry/CMSCommonData/data/cmsPilot2IdealGeometryXML.cfi"
-include "Geometry/MuonNumbering/data/muonNumberingInitialization.cfi"
