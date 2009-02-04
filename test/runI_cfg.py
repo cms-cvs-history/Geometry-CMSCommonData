@@ -1,7 +1,7 @@
 import FWCore.ParameterSet.Config as cms
 
 process = cms.Process("GEOM")
-process.load("Validation.CheckOverlap.testGeometry_cfi")
+process.load("Geometry.CMSCommonData.cmsIdealGeometryXML_cfi")
 
 process.MessageLogger = cms.Service("MessageLogger",
     debugModules = cms.untracked.vstring('*'),
